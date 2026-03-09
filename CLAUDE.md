@@ -1,0 +1,165 @@
+# Codon Project
+
+## Overview
+
+This project investigates **codon-level biology** — how organisms select synonymous codons and what functional consequences that selection has. It builds on two prior projects:
+
+1. **Proteostasis Law** (`/storage/kiran-stuff/proteostasis_law/`) — established the (mu, tAI) codon framework
+2. **Foldon Project** (`/storage/kiran-stuff/foldon_project/`) — applied codon analysis to protein structural layers (result: negative)
+
+The codon project is the NEXT phase — new questions beyond what was tested in foldon.
+
+---
+
+## GUIDELINES
+
+Same as parent: `/storage/kiran-stuff/.claude/CLAUDE.md`
+
+---
+
+## Key Concepts
+
+### The (mu, tAI) Framework
+Every codon has two measurable properties:
+- **mu** (mistranslation rate): probability of amino acid misincorporation per codon per translation event. From Landerer et al. (MBE). Range: 3.3e-05 (GAT) to 0.02 (CCC)
+- **tAI** (tRNA Adaptation Index): decoding speed/efficiency based on tRNA gene copy numbers. Range: ~0.0001 (CGA) to 1.0 (AAA)
+
+These define 4 **codon modes** per amino acid (using per-AA median thresholds):
+- **Q1**: safe_sprinter — low mu, high tAI (accurate AND fast)
+- **Q2**: safe_careful — low mu, low tAI (accurate but slow)
+- **Q3**: risky_sprinter — high mu, high tAI (fast but error-prone)
+- **Q4**: risky_careful — high mu, low tAI (worst of both)
+
+### RSCU (Relative Synonymous Codon Usage)
+RSCU = observed_count / expected_count for synonymous codons. RSCU=1 means no bias. RSCU>1 means preferred. WARNING: raw RSCU comparisons across protein regions are confounded by amino acid composition (hydrophobic AAs have different baseline RSCU).
+
+### Deconfounding
+- **Relative adaptiveness**: w = RSCU / RSCU_max (within-AA normalized, removes composition bias)
+- **Stratified per-AA test**: compare metric for same amino acid at different positions, combine via sign test
+- **mu_normalized**: mu(codon) / mean_mu(amino_acid) — removes AA identity from accuracy metric
+- **Same-AA mode switching**: the zero-confound test — compare codons only for the same amino acid at different structural positions
+
+---
+
+## What Was Already Done (in Foldon Project)
+
+### Test 1: Exon boundaries vs foldon boundaries — NEGATIVE
+- 37 Galpern proteins, 156 exon boundaries vs AWSEM layer transitions
+- Mean distance to nearest boundary: completely random (p uniformly distributed)
+- Exon structure and protein folding modules are unrelated
+
+### Test 2: RSCU by structural layer — PARTIALLY CONFOUNDED
+- Raw: L2 RSCU > L3 RSCU (p=0.0003) — BUT ~half was AA composition artifact
+- Deconfounded (relative adaptiveness w): L2=0.826 > L3=0.803 (p=0.025, survives)
+- Per-AA sign test: 15/18 AAs show L2 > L3 (83%, p=0.008)
+- Conclusion: weak but real signal — L2 positions use slightly more "preferred" codons
+
+### Test 3: RSCU boundary pause — NEGATIVE
+- No RSCU dip at foldon boundaries (p=0.45)
+
+### Test 4: GC content at boundaries — MARGINAL
+- p=0.026, not convincing
+
+### Test 5: mu by layer (deconfounded) — NEGATIVE
+- L2 vs L3 deconfounded mu: p=0.69 (coin flip)
+- Per-protein: 11/24 (46%) show predicted direction
+
+### Test 6: tAI by layer — BORDERLINE
+- Deconfounded tAI: L2=1.117 > L3=1.072 (p=0.12)
+- Per-protein: 17/24 (71%), p=0.064
+
+### Test 7: Quadrant distribution by layer — NEGATIVE
+- Chi-square p=0.12
+
+### Test 8: Same-AA mode switching (THE KILLER TEST) — NEGATIVE
+- mu: 8/18 AAs (44%) show L2 < L3, Fisher p=0.43
+- tAI: 11/18 (61%), Fisher p=0.48
+- **No layer-aware codon selection exists** for these 24 proteins
+
+### Test 9: Error budget by layer — OPPOSITE DIRECTION
+- j_L4 > j_L2 > j_L3 > j_surface (opposite to prediction)
+- L4 inflated by Cys enrichment at disulfide bonds (Cys has highest mu)
+
+### Bottom Line
+The foldon structural layers do NOT drive codon selection. There is a weak RSCU/tAI signal that survives deconfounding, but the definitive same-AA mode switching test is flat. The codon axis is **closed for structural layers**.
+
+---
+
+## Data Files
+
+### In this directory (to be populated)
+New analyses go here.
+
+### Source data (from prior projects)
+| File | Location | Description |
+|------|----------|-------------|
+| `codon_error_rates.tsv` | `foldon_project/` or `proteostasis_law/errors/` | Per-codon mu (61 codons) |
+| `ecoli_tai_ws.tsv` | `foldon_project/` or `proteostasis_law/errors/` | Per-codon tAI (61 codons) |
+| `aa_mode_summary.tsv` | `proteostasis_law/errors/` | Per-AA mode counts |
+| `codon_modes_ecoli.tsv` | `proteostasis_law/errors/` | E. coli codon mode assignments |
+| `global_codon_usage.tsv` | `proteostasis_law/errors/` | Global codon usage frequencies |
+| `residue_kappa_table.tsv` | `proteostasis_law/errors/` | Per-residue kappa values |
+| `uniprot_pos_codon_ecoli.tsv` | `proteostasis_law/errors/` | E. coli proteome codon positions |
+| `residue_codon_table.csv` | `foldon_project/codon_mode_results/` | 3976 residues with codon, layer, mu, tAI, quadrant |
+| `contacts_awsem.csv` | `foldon_project/layer_results/` | 38,027 AWSEM contacts with L2/L3 classification |
+
+### Key external databases
+- CDS sequences: PDB → SIFTS → UniProt → EMBL → NCBI GenBank
+- CDS cache: `foldon_project/codon_results/cds_cache/` (30 proteins already cached)
+
+---
+
+## Prior Project Scripts (reference, don't modify)
+
+### Foldon project codon scripts
+| Script | What it does |
+|--------|-------------|
+| `foldon_project/codon_layer_analysis.py` | RSCU analysis, CDS fetching pipeline, 3 signal tests |
+| `foldon_project/codon_rscu_deconfound.py` | AA composition deconfounding (w, stratified tests) |
+| `foldon_project/codon_mode_analysis.py` | Full (mu, tAI) framework, 7 analysis steps, mode switching |
+| `foldon_project/codon_layer_test1.py` | Exon boundary vs foldon boundary null test |
+
+### Proteostasis law scripts
+| Script | What it does |
+|--------|-------------|
+| `proteostasis_law/figure4_codon_modes.py` | Original codon mode visualization |
+| `proteostasis_law/figure4_corrected_null.py` | Corrected null model for mode distribution |
+| `proteostasis_law/figure5_mode_richness.py` | Mode richness analysis |
+| `proteostasis_law/figure6_capacity_bound.py` | Theoretical capacity bounds |
+| `proteostasis_law/verify_diversity_claims.py` | Verification of diversity statistics |
+
+---
+
+## Protein Layer Architecture (from Foldon Project)
+
+For reference — these are the structural layers that the codon analysis was tested against:
+
+- **L2 (intra-foldon)**: contacts within a folding segment. E_direct < 0 (favorable). More conserved (p=0.005). These are the "autonomous core" contacts.
+- **L3 (inter-foldon)**: contacts between folding segments. E_direct > 0 (unfavorable on average). Less conserved. These are the "cooperative interface" contacts.
+- **L4 (functional)**: contacts at catalytic/binding sites. Not a separate energetic tier but a separate conservation tier (most constrained on both identity and class entropy).
+- **Surface**: residues not in any contact layer.
+
+Key finding: L2 and L3 form a bimodal energy distribution (ΔBIC=36,103). The boundary is a step function (transition width = 0.3 residues). 96% of proteins (105/109 tested) show L2 < L3 energy.
+
+---
+
+## Environment
+
+- Machine: boron (10.147.17.21)
+- Conda: use `openawsem` env if AWSEM tools needed, otherwise base
+- Python: standard scientific stack (numpy, scipy, pandas, matplotlib, biopython)
+- SLURM: use for jobs > 5 min
+- 64 CPUs + 2 GPUs available
+
+---
+
+## Open Questions (potential directions)
+
+These are starting points — the user will define the actual research direction:
+
+1. **Cross-species codon selection**: do the (mu, tAI) patterns found in E. coli generalize to other organisms? The proteostasis_law project has `cross_species/` data.
+2. **Codon mode richness**: what determines how many modes an amino acid uses across the proteome? (started in proteostasis_law)
+3. **Capacity bounds**: theoretical limits on error correction via codon selection (started in proteostasis_law)
+4. **Codon co-occurrence / mRNA structure**: do adjacent codons show correlated selection (independent of protein structure)?
+5. **Codon selection at protein-protein interfaces vs cores**: different structural question from L2/L3 (which are folding layers, not interface layers)
+6. **Translation speed and cotranslational folding**: does tAI modulate folding kinetics at domain boundaries?
