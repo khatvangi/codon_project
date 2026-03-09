@@ -6,6 +6,9 @@ cotrans-layer/data/cds/
 cotrans-layer/results/sensitivity/
 cotrans-layer/results/folding_curves/
 
+# intermediate CP data (reproducible from cp_analysis.py)
+cp_results/*.npy
+
 # python
 __pycache__/
 *.pyc

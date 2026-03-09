@@ -112,6 +112,45 @@ The advantage of real foldons over random partitions comes entirely from the seg
 
 ---
 
+## Circular permutation analysis
+
+If the modular decomposition is an emergent consequence of which residues are contiguous in the linear chain, then changing contiguity should change the modules. Circular permutation (CP) does exactly this: it reconnects the N- and C-termini and opens a new break elsewhere, preserving 3D structure while altering backbone topology.
+
+We test this on protein S6 (PDB 1RIS, 97 residues), which has a well-characterized CP variant (CP54, Lindberg et al.) that cuts through the strongest autonomous module (WT-F2, 17 L2 contacts, E_direct = −0.186 kJ/mol).
+
+### Three-part argument
+
+**1. Energetic mismatch.** Contacts that were intra-module (L2) in the wild type but become inter-module (L3) after CP54 carry anomalously favorable E_direct = −0.119 kJ/mol — far from the typical L3 average of +0.029. These are good contacts stranded in the wrong layer.
+
+**2. Genuine reorganization.** The DP algorithm finds qualitatively different modules, not shifted copies of the old ones. CP54 produces a novel wrapping module (CP-F2 = WT residues [0-8] + [92-96]) that spans the new junction. 77/496 contacts (15.5%) switch layers.
+
+**3. Insulation drops.** Modular insulation — the degree to which each segment's energy is independent of inter-segment contacts — falls from 0.995 (WT) to 0.929 (CP54), a 14-fold increase in cross-module coupling. The clean module/interface separation that characterizes the wild-type energy landscape is broken.
+
+### Control variants
+
+Two control CP variants that cut in less critical regions show proportionally less disruption:
+
+| variant | cut site | L2 contacts | contacts switched | insulation | Type A foldons |
+|---------|----------|-------------|-------------------|------------|----------------|
+| WT | — | 28 | — | 0.995 | 2 |
+| CP13 | 13 | 6 | 61 (12.5%) | 0.969 | 2 |
+| CP54 | 54 | 11 | 77 (15.5%) | 0.929 | 3 |
+| CP68 | 68 | 9 | 53 (10.8%) | 0.978 | 1 |
+
+CP54 is the only variant with productive reorganization (10 L3→L2 transitions, 3 Type A foldons). CP13 and CP68 show degradation without compensating new modules.
+
+### CP figures
+
+**Figure 8**: CP54 reorganization. (a) Arc diagrams comparing WT and CP54 contact architectures, with L2→L3 (orange) and L3→L2 (green) switched contacts. (b) Energetic mismatch: L2→L3 contacts carry near-L2 energies. (c) Modular insulation across all four variants.
+
+![CP54 reorganization](cp_results/cp_main_figure.png)
+
+**Figure S1**: All four variants (WT, CP13, CP54, CP68) shown as arc diagrams with contact layer assignments and switch statistics.
+
+![all CP variants](cp_results/cp_all_variants_si.png)
+
+---
+
 ## Figures
 
 ### Emergence gap distribution
@@ -168,6 +207,7 @@ This analysis uses a simplified geometric model and does not capture several fac
 - **Multidomain kinetic traps**: for multidomain proteins, partially folded intermediates can misfold or aggregate. The model treats each foldon independently.
 - **Model dependence**: the type A/B classification and foldon boundaries derive from the AWSEM coarse-grained energy model. Different foldon definitions could yield different results.
 - **Parameter-light, not parameter-free**: while the geometric observation (gap positivity and magnitude) does not require kinetic parameters, the biologically interesting interpretation (time margins, folding rate comparisons) relies on literature-derived translation rates and empirical folding rate ranges.
+- **CP analysis scope**: the circular permutation test is limited to a single protein (S6). Generalization to other proteins with characterized CP variants would strengthen the argument.
 
 ---
 
@@ -183,7 +223,15 @@ codon_project/
 ├── aa_mode_summary.tsv                # per-AA mode counts
 ├── global_codon_usage.tsv             # global codon usage frequencies
 ├── docs/plans/                        # design and implementation plans
-└── cotrans-layer/                     # main analysis
+├── cp_analysis.py                     # circular permutation analysis (S6/1RIS)
+├── cp_figure.py                       # CP figures (main + SI)
+├── cp_results/                        # CP output data and figures
+│   ├── wt_contacts.csv               # WT contact classification
+│   ├── cp{13,54,68}_contacts.csv     # CP contact classifications
+│   ├── cp{13,54,68}_comparison.csv   # WT-vs-CP layer switching tables
+│   ├── cp_main_figure.{png,pdf}      # figure 8: reorganization + mismatch + insulation
+│   └── cp_all_variants_si.{png,pdf}  # figure S1: all four variants arc diagrams
+└── cotrans-layer/                     # main analysis (104 proteins)
     ├── src/                           # source modules
     │   ├── utils.py                   # shared utilities, data loaders
     │   ├── kinetic_model.py           # O'Brien two-state model (superseded)
@@ -198,6 +246,7 @@ codon_project/
     │   ├── 05_generate_figures.py     # 37-protein figures
     │   ├── 06_extend_to_full_dataset.py  # 104-protein extension
     │   ├── 07_generate_figures_104.py # 104-protein figures
+    │   ├── 08_null_models.py          # null model analysis (Null A + Null B)
     │   └── 09_null_model_figures.py   # null model figures (figures 6 & 7)
     ├── tests/                         # 13 passing tests
     ├── data/
@@ -230,14 +279,21 @@ python cotrans-layer/scripts/05_generate_figures.py
 python cotrans-layer/scripts/06_extend_to_full_dataset.py
 python cotrans-layer/scripts/07_generate_figures_104.py
 
-# null model figures
+# null models
+python cotrans-layer/scripts/08_null_models.py
 python cotrans-layer/scripts/09_null_model_figures.py
+
+# circular permutation analysis (requires foldon_project AWSEM data)
+python cp_analysis.py
+python cp_figure.py
 
 # tests
 python -m pytest cotrans-layer/tests/ -v
 ```
 
 Requires: numpy, pandas, scipy, matplotlib, seaborn, biopython.
+
+Note: the CP analysis (`cp_analysis.py`) depends on precomputed AWSEM data from the foldon project (`/storage/kiran-stuff/foldon_project/cp_analysis/`). The cotrans-layer analysis is self-contained via vendored upstream data.
 
 ## Why the kinetic model was superseded
 

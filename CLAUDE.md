@@ -153,6 +153,60 @@ Key finding: L2 and L3 form a bimodal energy distribution (ΔBIC=36,103). The bo
 
 ---
 
+## Circular Permutation Analysis (ACTIVE)
+
+Tests whether the DP-optimal modular decomposition is an emergent consequence of which residues are contiguous in the linear chain. Circular permutation changes contiguity without changing 3D structure.
+
+### Implementation
+- Script: `cp_analysis.py` in this directory
+- **Permutation trick**: permute AWsemData arrays to CP coordinates, recompute pair_mask for CP backbone connectivity, run standard LayerScan pipeline unmodified
+- AWSEM project for 1RIS: `foldon_project/cp_analysis/1ris_A/1ris/`
+- AWsemData cache: `foldon_project/cp_analysis/1ris_results/1ris.npz`
+- WT pickle: `foldon_project/cp_analysis/1ris_results/1ris/wt_result.pkl`
+- CP results output: `cp_results/` in this directory
+
+### S6 (PDB 1RIS) WT Results
+- 97 residues, 5 foldons (F0-F4), 28 L2 / 447 L3 contacts
+- F2 [44-71] is the strongest autonomous module: 17 L2 contacts, E_direct = -0.186
+
+### CP54 Results (Lindberg et al. variant)
+- Cuts through WT-F2, the strongest module
+- 6 foldons (vs 5 in WT), 11 L2 / 466 L3 contacts
+- WT-F2 destroyed: split into CP-F0 (WT[54-79]) and CP-F5 (WT[43-53])
+- Novel wrapping module: CP-F2 = WT[0-8 + 92-96]
+- 77/496 contacts switched layers (15.5%)
+- L2→L3 contacts carry anomalously favorable E_direct (-0.119 vs typical L3 +0.029)
+
+### CP Variants to Test
+| Variant | Cut Site | Status | Notes |
+|---------|----------|--------|-------|
+| CP54 | 54 | DONE | strongest phenotype, cuts WT-F2 |
+| CP13 | 13 | TODO | control, cuts in WT-F1 |
+| CP68 | 68 | TODO | control, cuts near end of WT-F2 |
+| T4L CP | varies | TODO | bonus, different protein |
+
+### Insulation Analysis
+- WT insulation: 0.995 (nearly perfect factorizability)
+- CP54 insulation: **0.929** (14× more coupling — factorizability broken)
+- CP13: 0.969, CP68: 0.978 (closer to WT)
+- WT weak segments = the two Type A foldons (F1 ρ=0.105, F2 ρ=-0.129)
+- CP54 destroys F2; F1 core → CP-F3 with amplified coupling (ρ=0.205)
+- Novel wrapping module CP-F2 also weakly insulated (ρ=0.153)
+- Key insight: gap widens (DP concentrates best contacts) BUT insulation drops (misplaced contacts create cross-layer correlations)
+
+### Figures
+- Main text: `cp_results/cp_main_figure.png/pdf` — 3-column (arcs + mismatch bars + insulation)
+- SI: `cp_results/cp_all_variants_si.png/pdf` — 4-row (WT, CP13, CP54, CP68)
+
+### Key Technical Notes
+- `pair_mask` must be recomputed for CP (encodes polymer connectivity, not 3D distance)
+- Burial weights recomputed via `precompute_contact_weights` on permuted coords
+- "absent" contacts = pairs whose pair_mask status changed at cut/junction sites
+- STRIDE not needed for contact energy analysis (only for MD ssweight)
+- gamma.dat and burial_gamma.dat are protein-independent AWSEM parameters
+
+---
+
 ## Open Questions (potential directions)
 
 These are starting points — the user will define the actual research direction:
