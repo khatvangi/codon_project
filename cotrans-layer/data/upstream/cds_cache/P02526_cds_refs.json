@@ -1,0 +1,21 @@
+{
+  "accession": "P02526",
+  "organism": "Bos taurus",
+  "embl_refs": [
+    {
+      "nucleotide_id": "X01036",
+      "protein_id": "CAA25518.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M16894",
+      "protein_id": "AAA30476.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "EF208024",
+      "protein_id": "ABM97504.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "accession": "Q13158",
+  "organism": "Homo sapiens",
+  "n_variants": 1,
+  "variants": [
+    {
+      "uniprot_position": 105,
+      "wt": "C",
+      "mut": "W",
+      "description": "in IEHDCM; reduced folding stability as measured by differential scanning calorimetry of the mutant protein; impairs interaction with FAS; dbSNP:rs387906839",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "accession": "Q6V702",
+  "organism": "Homo sapiens",
+  "n_variants": 2,
+  "variants": [
+    {
+      "uniprot_position": 138,
+      "wt": "T",
+      "mut": "M",
+      "description": "in dbSNP:rs11947742",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 220,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs1052325",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

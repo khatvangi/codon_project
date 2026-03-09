@@ -1,0 +1,51 @@
+{
+  "accession": "Q13158",
+  "organism": "Homo sapiens",
+  "embl_refs": [
+    {
+      "nucleotide_id": "U24231",
+      "protein_id": "AAA86517.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X84709",
+      "protein_id": "CAA59197.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AY423721",
+      "protein_id": "AAS00484.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AK291005",
+      "protein_id": "BAF83694.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BT006927",
+      "protein_id": "AAP35573.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "CR456738",
+      "protein_id": "CAG33019.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "DQ449938",
+      "protein_id": "ABD96828.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "CH471076",
+      "protein_id": "EAW74761.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "BC000334",
+      "protein_id": "AAH00334.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

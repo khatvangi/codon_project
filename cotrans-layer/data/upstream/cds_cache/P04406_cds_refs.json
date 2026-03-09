@@ -1,0 +1,116 @@
+{
+  "accession": "P04406",
+  "organism": "Homo sapiens",
+  "embl_refs": [
+    {
+      "nucleotide_id": "X01677",
+      "protein_id": "CAA25833.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M17851",
+      "protein_id": "AAA86283.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M33197",
+      "protein_id": "AAA52518.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "J02642",
+      "protein_id": "AAA52496.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "J04038",
+      "protein_id": "AAA53191.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "X53778",
+      "protein_id": "CAA37794.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AF261085",
+      "protein_id": "AAF99678.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AY007133",
+      "protein_id": "AAG01996.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AB062273",
+      "protein_id": "BAB93466.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BT006893",
+      "protein_id": "AAP35539.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AY340484",
+      "protein_id": "AAP88932.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "CR407671",
+      "protein_id": "CAG28599.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "CH471116",
+      "protein_id": "EAW88787.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "BC001601",
+      "protein_id": "AAH01601.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BC004109",
+      "protein_id": "AAH04109.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BC009081",
+      "protein_id": "AAH09081.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BC013310",
+      "protein_id": "AAH13310.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BC023632",
+      "protein_id": "AAH23632.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BC025925",
+      "protein_id": "AAH25925.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BC026907",
+      "protein_id": "AAH26907.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BC029618",
+      "protein_id": "AAH29618.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BC083511",
+      "protein_id": "AAH83511.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

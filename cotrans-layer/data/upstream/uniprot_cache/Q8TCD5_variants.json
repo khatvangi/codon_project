@@ -1,0 +1,15 @@
+{
+  "accession": "Q8TCD5",
+  "organism": "Homo sapiens",
+  "n_variants": 1,
+  "variants": [
+    {
+      "uniprot_position": 68,
+      "wt": "P",
+      "mut": "L",
+      "description": "in dbSNP:rs11541956",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

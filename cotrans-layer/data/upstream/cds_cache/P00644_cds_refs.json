@@ -1,0 +1,16 @@
+{
+  "accession": "P00644",
+  "organism": "Staphylococcus aureus",
+  "embl_refs": [
+    {
+      "nucleotide_id": "V01281",
+      "protein_id": "CAA24594.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M17123",
+      "protein_id": "AAA26659.1",
+      "molecule_type": "Genomic_DNA"
+    }
+  ]
+}

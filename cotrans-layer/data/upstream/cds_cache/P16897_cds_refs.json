@@ -1,0 +1,11 @@
+{
+  "accession": "P16897",
+  "organism": "Pseudomonas aeruginosa",
+  "embl_refs": [
+    {
+      "nucleotide_id": "J05162",
+      "protein_id": "AAA25979.1",
+      "molecule_type": "Genomic_DNA"
+    }
+  ]
+}

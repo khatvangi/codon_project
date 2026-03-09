@@ -1,0 +1,21 @@
+{
+  "accession": "P00883",
+  "organism": "Oryctolagus cuniculus",
+  "embl_refs": [
+    {
+      "nucleotide_id": "K02300",
+      "protein_id": "AAA31156.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "V00876",
+      "protein_id": "CAA24245.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "V00877",
+      "protein_id": "CAA24246.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

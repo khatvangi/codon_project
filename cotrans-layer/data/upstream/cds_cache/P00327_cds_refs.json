@@ -1,0 +1,11 @@
+{
+  "accession": "P00327",
+  "organism": "Equus caballus",
+  "embl_refs": [
+    {
+      "nucleotide_id": "M64864",
+      "protein_id": "AAA30931.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

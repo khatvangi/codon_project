@@ -1,0 +1,76 @@
+{
+  "accession": "P01584",
+  "organism": "Homo sapiens",
+  "embl_refs": [
+    {
+      "nucleotide_id": "K02770",
+      "protein_id": "AAA36106.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M54933",
+      "protein_id": "AAA59136.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X02532",
+      "protein_id": "CAA26372.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X04500",
+      "protein_id": "CAA28185.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M15330",
+      "protein_id": "AAA59135.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M15840",
+      "protein_id": "AAA74137.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "X56087",
+      "protein_id": "CAA39567.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BN000002",
+      "protein_id": "CAD29872.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "BT007213",
+      "protein_id": "AAP35877.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "CR407679",
+      "protein_id": "CAG28607.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AY137079",
+      "protein_id": "AAM88883.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "AC079753",
+      "protein_id": "AAX88888.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "CH471217",
+      "protein_id": "EAW73605.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "BC008678",
+      "protein_id": "AAH08678.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

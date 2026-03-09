@@ -1,0 +1,16 @@
+{
+  "accession": "P03366",
+  "organism": "Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",
+  "embl_refs": [
+    {
+      "nucleotide_id": "M15654",
+      "protein_id": "AAA44198.1",
+      "molecule_type": "Genomic_RNA"
+    },
+    {
+      "nucleotide_id": "K02083",
+      "protein_id": "AAB59867.1",
+      "molecule_type": "Genomic_DNA"
+    }
+  ]
+}

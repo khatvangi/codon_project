@@ -1,0 +1,63 @@
+{
+  "accession": "P03366",
+  "organism": "Human immunodeficiency virus type 1 group M subtype B (isolate BH10)",
+  "n_variants": 7,
+  "variants": [
+    {
+      "uniprot_position": 297,
+      "wt": "V",
+      "mut": "L",
+      "description": "in strain: Isolate PV22",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 434,
+      "wt": "L",
+      "mut": "F",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 771,
+      "wt": "K",
+      "mut": "R",
+      "description": "in strain: Isolate PV22",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1050,
+      "wt": "K",
+      "mut": "R",
+      "description": "in strain: Isolate PV22",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1057,
+      "wt": "V",
+      "mut": "L",
+      "description": "in strain: Isolate PV22",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1111,
+      "wt": "K",
+      "mut": "Q",
+      "description": "in strain: Isolate PV22",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1128,
+      "wt": "E",
+      "mut": "Q",
+      "description": "in strain: Isolate PV22",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "accession": "P02210",
+  "organism": "Aplysia limacina",
+  "embl_refs": [
+    {
+      "nucleotide_id": "X79304",
+      "protein_id": "CAA55885.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

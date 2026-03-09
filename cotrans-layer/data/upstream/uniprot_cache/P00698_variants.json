@@ -1,0 +1,31 @@
+{
+  "accession": "P00698",
+  "organism": "Gallus gallus",
+  "n_variants": 3,
+  "variants": [
+    {
+      "uniprot_position": 49,
+      "wt": "A",
+      "mut": "V",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 71,
+      "wt": "Y",
+      "mut": "F",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 71,
+      "wt": "Y",
+      "mut": "S",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

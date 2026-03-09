@@ -1,0 +1,11 @@
+{
+  "accession": "P00299",
+  "organism": "Populus nigra",
+  "embl_refs": [
+    {
+      "nucleotide_id": "Z50185",
+      "protein_id": "CAA90564.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

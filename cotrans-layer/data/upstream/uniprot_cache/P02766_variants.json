@@ -1,0 +1,703 @@
+{
+  "accession": "P02766",
+  "organism": "Homo sapiens",
+  "n_variants": 87,
+  "variants": [
+    {
+      "uniprot_position": 26,
+      "wt": "G",
+      "mut": "S",
+      "description": "in dbSNP:rs1800458",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30,
+      "wt": "C",
+      "mut": "R",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918083",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 32,
+      "wt": "L",
+      "mut": "P",
+      "description": "in AMYLD1; dbSNP:rs121918094",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 33,
+      "wt": "M",
+      "mut": "I",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 38,
+      "wt": "D",
+      "mut": "E",
+      "description": "in AMYLD1; amyloid polyneuropathy",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 38,
+      "wt": "D",
+      "mut": "G",
+      "description": "in AMYLD1; leptomeningeal amyloidosis; leads to unfolding and exposure of N-118 to glycosylation by STT3B and subsequent degradation by the ERAD pathway; dbSNP:rs121918098",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 40,
+      "wt": "V",
+      "mut": "I",
+      "description": "in AMYLD1; late-onset amyloid polyneuropathy with carpal tunnel syndrome; dbSNP:rs121918093",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 43,
+      "wt": "S",
+      "mut": "N",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 44,
+      "wt": "P",
+      "mut": "S",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs11541790",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 48,
+      "wt": "V",
+      "mut": "M",
+      "description": "in AMYLD1; amyloid polyneuropathy",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 50,
+      "wt": "V",
+      "mut": "A",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs79977247",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 50,
+      "wt": "V",
+      "mut": "G",
+      "description": "in AMYLD1; dbSNP:rs79977247",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 50,
+      "wt": "V",
+      "mut": "L",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs28933979",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 50,
+      "wt": "V",
+      "mut": "M",
+      "description": "in AMYLD1; amyloid polyneuropathy; by far the most frequent mutation; dbSNP:rs28933979",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 53,
+      "wt": "F",
+      "mut": "C",
+      "description": "in a patient with amyloidosis",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 53,
+      "wt": "F",
+      "mut": "I",
+      "description": "in AMYLD1; Jewish 'SKO' amyloid polyneuropathy; dbSNP:rs121918068",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 53,
+      "wt": "F",
+      "mut": "L",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918068",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 53,
+      "wt": "F",
+      "mut": "V",
+      "description": "in AMYLD1; amyloid polyneuropathy",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 54,
+      "wt": "R",
+      "mut": "T",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 55,
+      "wt": "K",
+      "mut": "N",
+      "description": "in AMYLD1; amyloid polyneuropathy",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 56,
+      "wt": "A",
+      "mut": "P",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918077",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 58,
+      "wt": "D",
+      "mut": "A",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 58,
+      "wt": "D",
+      "mut": "V",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 61,
+      "wt": "W",
+      "mut": "L",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 62,
+      "wt": "E",
+      "mut": "D",
+      "description": "in AMYLD1; dbSNP:rs11541796",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 62,
+      "wt": "E",
+      "mut": "G",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs11541796",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 64,
+      "wt": "F",
+      "mut": "S",
+      "description": "in AMYLD1; dbSNP:rs104894665",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 65,
+      "wt": "A",
+      "mut": "D",
+      "description": "in AMYLD1; amyloid cardiomyopathy; dbSNP:rs730881169",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 65,
+      "wt": "A",
+      "mut": "S",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 65,
+      "wt": "A",
+      "mut": "T",
+      "description": "in AMYLD1; amyloid cardiomyopathy; dbSNP:rs121918078",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 67,
+      "wt": "G",
+      "mut": "A",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918090",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 67,
+      "wt": "G",
+      "mut": "E",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 67,
+      "wt": "G",
+      "mut": "R",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs387906523",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 67,
+      "wt": "G",
+      "mut": "V",
+      "description": "in AMYLD1; amyloid polyneuropathy with carpal tunnel syndrome",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 69,
+      "wt": "T",
+      "mut": "A",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918081",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 69,
+      "wt": "T",
+      "mut": "I",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 70,
+      "wt": "S",
+      "mut": "I",
+      "description": "in AMYLD1; amyloid cardiomyopathy; dbSNP:rs121918080",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 70,
+      "wt": "S",
+      "mut": "R",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs386134269",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 72,
+      "wt": "S",
+      "mut": "P",
+      "description": "in AMYLD1; amyloid polyneuropathy",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 73,
+      "wt": "G",
+      "mut": "E",
+      "description": "in AMYLD1; dbSNP:rs121918097",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 74,
+      "wt": "E",
+      "mut": "G",
+      "description": "in AMYLD1; amyloid polyneuropathy",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 74,
+      "wt": "E",
+      "mut": "K",
+      "description": "in AMYLD1; early-onset amyloid polyneuropathy",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 75,
+      "wt": "L",
+      "mut": "P",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918079",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 75,
+      "wt": "L",
+      "mut": "Q",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 78,
+      "wt": "L",
+      "mut": "H",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918069",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 78,
+      "wt": "L",
+      "mut": "R",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918069",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 79,
+      "wt": "T",
+      "mut": "K",
+      "description": "in AMYLD1; amyloid cardiomyopathy; dbSNP:rs730881163",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 80,
+      "wt": "T",
+      "mut": "A",
+      "description": "in AMYLD1; amyloid polyneuropathy and cardiomyopathy; dbSNP:rs121918070",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 81,
+      "wt": "E",
+      "mut": "G",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 81,
+      "wt": "E",
+      "mut": "K",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918086",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 84,
+      "wt": "F",
+      "mut": "L",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918091",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 88,
+      "wt": "I",
+      "mut": "L",
+      "description": "in AMYLD1; amyloid cardiomyopathy; dbSNP:rs121918085",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 89,
+      "wt": "Y",
+      "mut": "H",
+      "description": "in AMYLD1; leptomeningeal amyloidosis; vitreous amyloid in some patients; dbSNP:rs121918100",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 90,
+      "wt": "K",
+      "mut": "N",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs267607160",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 91,
+      "wt": "V",
+      "mut": "A",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918084",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 93,
+      "wt": "I",
+      "mut": "V",
+      "description": "in AMYLD1; amyloid polyneuropathy",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 94,
+      "wt": "D",
+      "mut": "H",
+      "description": "in dbSNP:rs730881164",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 97,
+      "wt": "S",
+      "mut": "Y",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918071",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 98,
+      "wt": "Y",
+      "mut": "F",
+      "description": "in AMYLD1; dbSNP:rs958191819",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 104,
+      "wt": "I",
+      "mut": "N",
+      "description": "in AMYLD1; vitrous amyloid",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 104,
+      "wt": "I",
+      "mut": "S",
+      "description": "in AMYLD1; amyloid polyneuropathy; almost no RBP binding; dbSNP:rs121918072",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 104,
+      "wt": "I",
+      "mut": "T",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 109,
+      "wt": "E",
+      "mut": "K",
+      "description": "in AMYLD1; amyloid polyneuropathy",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 109,
+      "wt": "E",
+      "mut": "Q",
+      "description": "in AMYLD1; amyloid polyneuropathy and cardiomyopathy; dbSNP:rs121918082",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 110,
+      "wt": "H",
+      "mut": "N",
+      "description": "in dbSNP:rs121918074",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 111,
+      "wt": "A",
+      "mut": "S",
+      "description": "in AMYLD1; amyloid polyneuropathy",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 114,
+      "wt": "V",
+      "mut": "A",
+      "description": "in a patient with amyloidosis",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 117,
+      "wt": "A",
+      "mut": "G",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918087",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 117,
+      "wt": "A",
+      "mut": "S",
+      "description": "in AMYLD1; dbSNP:rs267607161",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 121,
+      "wt": "G",
+      "mut": "S",
+      "description": "in dbSNP:rs755337715",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 122,
+      "wt": "P",
+      "mut": "R",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 124,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs745834030",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 124,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs121918095",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 126,
+      "wt": "T",
+      "mut": "N",
+      "description": "in AMYLD1; dbSNP:rs1456101911",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 127,
+      "wt": "I",
+      "mut": "M",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 127,
+      "wt": "I",
+      "mut": "V",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918089",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 129,
+      "wt": "A",
+      "mut": "T",
+      "description": "in DTTRH; increased affinity for thyroxine; dbSNP:rs267607159",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 131,
+      "wt": "L",
+      "mut": "M",
+      "description": "in AMYLD1; dbSNP:rs121918073",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 134,
+      "wt": "Y",
+      "mut": "C",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs121918075",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 134,
+      "wt": "Y",
+      "mut": "H",
+      "description": "in CTS1; amyloid deposit on carpal tunnel; patients show no other abnormalities; dbSNP:rs121918088",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 136,
+      "wt": "Y",
+      "mut": "S",
+      "description": "in AMYLD1; amyloid polyneuropathy; dbSNP:rs730881167",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 136,
+      "wt": "Y",
+      "mut": "V",
+      "description": "requires 2 nucleotide substitutions",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 139,
+      "wt": "T",
+      "mut": "M",
+      "description": "in Chicago variant; dbSNP:rs28933981",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 140,
+      "wt": "A",
+      "mut": "S",
+      "description": "in AMYLD1; dbSNP:rs876658108",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 142,
+      "wt": "V",
+      "mut": "A",
+      "description": "in AMYLD1",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 142,
+      "wt": "V",
+      "mut": "I",
+      "description": "in AMYLD1; dbSNP:rs76992529",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 144,
+      "wt": "N",
+      "mut": "S",
+      "description": "in AMYLD1; uncertain significance; dbSNP:rs144965179",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

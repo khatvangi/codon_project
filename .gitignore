@@ -1,7 +1,6 @@
 # generated data (large, reproducible from scripts)
 cotrans-layer/data/extended_contacts.csv
 cotrans-layer/data/cds/
-cotrans-layer/data/upstream/
 
 # results (reproducible from scripts, but keep summary and figures)
 cotrans-layer/results/sensitivity/

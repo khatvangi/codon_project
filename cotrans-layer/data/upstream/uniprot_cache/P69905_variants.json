@@ -1,0 +1,1167 @@
+{
+  "accession": "P69905",
+  "organism": "Homo sapiens",
+  "n_variants": 145,
+  "variants": [
+    {
+      "uniprot_position": 2,
+      "wt": "V",
+      "mut": "E",
+      "description": "in Thionville; O(2) affinity down; dbSNP:rs33981821",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 3,
+      "wt": "L",
+      "mut": "R",
+      "description": "in ChongQing; O(2) affinity up; dbSNP:rs36030576",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 6,
+      "wt": "A",
+      "mut": "D",
+      "description": "in J-Toronto; dbSNP:rs34090856",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 6,
+      "wt": "A",
+      "mut": "P",
+      "description": "in Karachi; dbSNP:rs34751764",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 7,
+      "wt": "D",
+      "mut": "A",
+      "description": "in Sawara; O(2) affinity up; dbSNP:rs33986902",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 7,
+      "wt": "D",
+      "mut": "G",
+      "description": "in Swan River; dbSNP:rs281864805",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 7,
+      "wt": "D",
+      "mut": "N",
+      "description": "in Dunn; O(2) affinity up; dbSNP:rs33961916",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 7,
+      "wt": "D",
+      "mut": "V",
+      "description": "in Ferndown; O(2) affinity up; dbSNP:rs281864805",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 7,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in Woodville; O(2) affinity up; dbSNP:rs281864806",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 8,
+      "wt": "K",
+      "mut": "E",
+      "description": "in Kurosaki; dbSNP:rs34817956",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 10,
+      "wt": "N",
+      "mut": "T",
+      "description": "in Broomfield; dbSNP:rs281860608",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 12,
+      "wt": "K",
+      "mut": "E",
+      "description": "in Anantharaj; dbSNP:rs33938574",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 13,
+      "wt": "A",
+      "mut": "D",
+      "description": "in J-Paris 1/J-Aljezur; dbSNP:rs35615982",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 14,
+      "wt": "A",
+      "mut": "P",
+      "description": "in Ravenscourt Park; causes alpha-thalassemia; dbSNP:rs35331909",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 15,
+      "wt": "W",
+      "mut": "R",
+      "description": "in Evanston; O(2) affinity up; dbSNP:rs33964317",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 16,
+      "wt": "G",
+      "mut": "R",
+      "description": "in Ottawa/Siam; dbSNP:rs35816645",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 17,
+      "wt": "K",
+      "mut": "M",
+      "description": "in Harbin; slightly unstable; dbSNP:rs35210126",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 17,
+      "wt": "K",
+      "mut": "N",
+      "description": "in Beijing; dbSNP:rs281860648 and dbSNP:rs281860619",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 19,
+      "wt": "G",
+      "mut": "D",
+      "description": "in Al-Ain Abu Dhabi; dbSNP:rs35993097",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 19,
+      "wt": "G",
+      "mut": "R",
+      "description": "in Handsworth; dbSNP:rs34504387",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 20,
+      "wt": "A",
+      "mut": "D",
+      "description": "in J-Kurosh",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 20,
+      "wt": "A",
+      "mut": "E",
+      "description": "in J-Tashikuergan; dbSNP:rs35628685",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 21,
+      "wt": "H",
+      "mut": "Q",
+      "description": "in Le Lamentin; dbSNP:rs41525149",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 21,
+      "wt": "H",
+      "mut": "R",
+      "description": "in Hobart; dbSNP:rs33943087",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 22,
+      "wt": "A",
+      "mut": "D",
+      "description": "in J-Nyanza; dbSNP:rs11548605",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 22,
+      "wt": "A",
+      "mut": "P",
+      "description": "in Fontainebleau; dbSNP:rs34324664",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 23,
+      "wt": "G",
+      "mut": "D",
+      "description": "in J-Medellin; dbSNP:rs34608326",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 24,
+      "wt": "E",
+      "mut": "G",
+      "description": "in Reims; slightly unstable; dbSNP:rs33939421",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 24,
+      "wt": "E",
+      "mut": "K",
+      "description": "in Chad; dbSNP:rs281864819",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 25,
+      "wt": "Y",
+      "mut": "H",
+      "description": "in Luxembourg; unstable; dbSNP:rs281864821",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 27,
+      "wt": "A",
+      "mut": "E",
+      "description": "in Shenyang; unstable; dbSNP:rs281864822",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 27,
+      "wt": "A",
+      "mut": "V",
+      "description": "in Campinas; dbSNP:rs281864822",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 28,
+      "wt": "E",
+      "mut": "D",
+      "description": "in Hekinan; dbSNP:rs281865556",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 28,
+      "wt": "E",
+      "mut": "G",
+      "description": "in Fort Worth; dbSNP:rs281864823",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 28,
+      "wt": "E",
+      "mut": "V",
+      "description": "in Spanish town; dbSNP:rs281864823",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 31,
+      "wt": "E",
+      "mut": "K",
+      "description": "in O-Padova; dbSNP:rs111033605",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 32,
+      "wt": "R",
+      "mut": "K",
+      "description": "causes alpha-thalassemia; dbSNP:rs281864543",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32,
+      "wt": "R",
+      "mut": "S",
+      "description": "in Prato; unstable; dbSNP:rs111033606",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 35,
+      "wt": "L",
+      "mut": "R",
+      "description": "in Queens/Ogi; dbSNP:rs281864825",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 38,
+      "wt": "P",
+      "mut": "R",
+      "description": "in Bourmedes; dbSNP:rs281864826",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 41,
+      "wt": "K",
+      "mut": "M",
+      "description": "in Kanagawa; O(2) affinity up; dbSNP:rs281864828",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 42,
+      "wt": "T",
+      "mut": "S",
+      "description": "in Miyano; O(2) affinity up; dbSNP:rs281860623",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 44,
+      "wt": "F",
+      "mut": "L",
+      "description": "in Hirosaki; unstable; dbSNP:rs41491146",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 45,
+      "wt": "P",
+      "mut": "L",
+      "description": "in Milledgeville; O(2) affinity up; dbSNP:rs33978134 and dbSNP:rs281864830",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 45,
+      "wt": "P",
+      "mut": "R",
+      "description": "in Kawachi; O(2) affinity up; dbSNP:rs281864830",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 46,
+      "wt": "H",
+      "mut": "Q",
+      "description": "in Bari; dbSNP:rs281860624",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 46,
+      "wt": "H",
+      "mut": "R",
+      "description": "in Fort de France; O(2) affinity up; dbSNP:rs281864831",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 48,
+      "wt": "D",
+      "mut": "A",
+      "description": "in Cordele; unstable; dbSNP:rs281864833",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 48,
+      "wt": "D",
+      "mut": "G",
+      "description": "in Kokura; also in Umi/Michigan; unstable; dbSNP:rs281864833",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 48,
+      "wt": "D",
+      "mut": "H",
+      "description": "in Hasharon/Sinai; unstable; dbSNP:rs281864834",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 48,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in Kurdistan; dbSNP:rs281864834",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 49,
+      "wt": "L",
+      "mut": "R",
+      "description": "in Montgomery; dbSNP:rs41392146",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 50,
+      "wt": "S",
+      "mut": "R",
+      "description": "in Savaria; dbSNP:rs41518249",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 51,
+      "wt": "H",
+      "mut": "R",
+      "description": "in Aichi; slightly unstable; dbSNP:rs281864835",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 52,
+      "wt": "G",
+      "mut": "D",
+      "description": "in J-Abidjan; dbSNP:rs281864836",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 52,
+      "wt": "G",
+      "mut": "R",
+      "description": "in Russ; dbSNP:rs281864837",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 54,
+      "wt": "A",
+      "mut": "D",
+      "description": "in J-Rovigo; unstable; dbSNP:rs281864838",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 55,
+      "wt": "Q",
+      "mut": "R",
+      "description": "in Hikoshima/Shimonoseki; dbSNP:rs281864839",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 57,
+      "wt": "K",
+      "mut": "R",
+      "description": "in Port Huron; dbSNP:rs281864841",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 57,
+      "wt": "K",
+      "mut": "T",
+      "description": "in Thailand; dbSNP:rs281864841",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 58,
+      "wt": "G",
+      "mut": "R",
+      "description": "in L-Persian Gulf; dbSNP:rs281864843",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 59,
+      "wt": "H",
+      "mut": "Q",
+      "description": "in Boghe; dbSNP:rs41378349",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 59,
+      "wt": "H",
+      "mut": "Y",
+      "description": "in M-Boston/M-Osaka; O(2) affinity down; dbSNP:rs281864845",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 60,
+      "wt": "G",
+      "mut": "D",
+      "description": "in Adana; unstable; causes alpha-thalassemia; dbSNP:rs28928878",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 60,
+      "wt": "G",
+      "mut": "V",
+      "description": "in Tottori; unstable; dbSNP:rs281864846",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 61,
+      "wt": "K",
+      "mut": "N",
+      "description": "in Zambia; dbSNP:rs281860659 and dbSNP:rs111033598",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 62,
+      "wt": "K",
+      "mut": "N",
+      "description": "in J-Buda; dbSNP:rs33985574",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 62,
+      "wt": "K",
+      "mut": "T",
+      "description": "in J-Anatolia; dbSNP:rs281865558",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 63,
+      "wt": "V",
+      "mut": "M",
+      "description": "in Evans; unstable; dbSNP:rs41515649",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 64,
+      "wt": "A",
+      "mut": "D",
+      "description": "in Pontoise; unstable; dbSNP:rs34502246",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 65,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in Persepolis; dbSNP:rs33984024",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 69,
+      "wt": "N",
+      "mut": "K",
+      "description": "in G-Philadelphia; dbSNP:rs1060339",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 72,
+      "wt": "A",
+      "mut": "E",
+      "description": "in J-Habana; dbSNP:rs281864853",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 72,
+      "wt": "A",
+      "mut": "V",
+      "description": "in Ozieri; dbSNP:rs281864853",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 73,
+      "wt": "H",
+      "mut": "R",
+      "description": "in Daneskgah-Teheran; dbSNP:rs281864854",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 75,
+      "wt": "D",
+      "mut": "A",
+      "description": "in Lille; dbSNP:rs281864856",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 75,
+      "wt": "D",
+      "mut": "G",
+      "description": "in Chapel Hill; dbSNP:rs33921047",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 75,
+      "wt": "D",
+      "mut": "N",
+      "description": "in G-Pest; dbSNP:rs281864857",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 76,
+      "wt": "D",
+      "mut": "A",
+      "description": "in Duan; dbSNP:rs33991223",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 76,
+      "wt": "D",
+      "mut": "H",
+      "description": "in Q-Iran; dbSNP:rs281864858",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 77,
+      "wt": "M",
+      "mut": "K",
+      "description": "in Noko; dbSNP:rs33969953",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 77,
+      "wt": "M",
+      "mut": "T",
+      "description": "in Aztec; dbSNP:rs33969953",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 78,
+      "wt": "P",
+      "mut": "R",
+      "description": "in Guizhou; dbSNP:rs281864861",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 79,
+      "wt": "N",
+      "mut": "H",
+      "description": "in Davenport; dbSNP:rs111033602",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 79,
+      "wt": "N",
+      "mut": "K",
+      "description": "in Stanleyville-2; dbSNP:rs281860607",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 80,
+      "wt": "A",
+      "mut": "G",
+      "description": "in Singapore; dbSNP:rs281860603",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 81,
+      "wt": "L",
+      "mut": "R",
+      "description": "in Ann Arbor; unstable; dbSNP:rs281864863",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 82,
+      "wt": "S",
+      "mut": "C",
+      "description": "in Nigeria; dbSNP:rs281864864",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 83,
+      "wt": "A",
+      "mut": "D",
+      "description": "in Garden State; dbSNP:rs281864865",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 85,
+      "wt": "S",
+      "mut": "R",
+      "description": "in Etobicoke; O(2) affinity up; dbSNP:rs281860612",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 86,
+      "wt": "D",
+      "mut": "V",
+      "description": "in Inkster; O(2) affinity up; dbSNP:rs41331747",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 86,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in Atago; O(2) affinity up; dbSNP:rs281864777",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 87,
+      "wt": "L",
+      "mut": "R",
+      "description": "in Moabit; unstable; dbSNP:rs281864866",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 88,
+      "wt": "H",
+      "mut": "N",
+      "description": "in Auckland; unstable; dbSNP:rs281864868",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 88,
+      "wt": "H",
+      "mut": "R",
+      "description": "in Iwata; unstable; dbSNP:rs281864867",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 89,
+      "wt": "A",
+      "mut": "S",
+      "description": "in Loire; O(2) affinity up; dbSNP:rs35239527",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 91,
+      "wt": "K",
+      "mut": "M",
+      "description": "in Handa; O(2) affinity up; dbSNP:rs281864873",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 92,
+      "wt": "L",
+      "mut": "F",
+      "description": "in dbSNP:rs281864494",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 92,
+      "wt": "L",
+      "mut": "P",
+      "description": "in Port Phillip; unstable; dbSNP:rs281864874",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 93,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in J-Cape Town; O(2) affinity up; dbSNP:rs281864875",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 93,
+      "wt": "R",
+      "mut": "W",
+      "description": "in Cemenelum; O(2) affinity up; dbSNP:rs281864876",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 95,
+      "wt": "D",
+      "mut": "A",
+      "description": "in Bassett; markedly reduced oxygen affinity; dbSNP:rs281864879",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 95,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in Setif; unstable; dbSNP:rs281864878",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 96,
+      "wt": "P",
+      "mut": "A",
+      "description": "in Denmark Hill; O(2) affinity up; dbSNP:rs281864881",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 96,
+      "wt": "P",
+      "mut": "T",
+      "description": "in Godavari; O(2) affinity up; dbSNP:rs281864881",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 98,
+      "wt": "N",
+      "mut": "K",
+      "description": "in Dallas; O(2) affinity up; dbSNP:rs41338947",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 100,
+      "wt": "K",
+      "mut": "E",
+      "description": "in Turriff; dbSNP:rs281864882",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 103,
+      "wt": "S",
+      "mut": "R",
+      "description": "in Manitoba; slightly unstable; dbSNP:rs41344646",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 104,
+      "wt": "H",
+      "mut": "R",
+      "description": "in Contaldo; unstable; dbSNP:rs63750752",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 104,
+      "wt": "H",
+      "mut": "Y",
+      "description": "in Charolles; dbSNP:rs63750073",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 110,
+      "wt": "L",
+      "mut": "R",
+      "description": "in Suan-Dok; unstable; causes alpha-thalassemia; dbSNP:rs41479844",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 111,
+      "wt": "A",
+      "mut": "D",
+      "description": "in Petah Tikva; unstable; causes alpha-thalassemia; dbSNP:rs28928889",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 113,
+      "wt": "H",
+      "mut": "D",
+      "description": "in Hopkins-II; unstable; dbSNP:rs281864885",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 114,
+      "wt": "L",
+      "mut": "H",
+      "description": "in Twin Peaks; dbSNP:rs281860618",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 115,
+      "wt": "P",
+      "mut": "L",
+      "description": "in Nouakchott; dbSNP:rs267607269",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 115,
+      "wt": "P",
+      "mut": "R",
+      "description": "in Chiapas; dbSNP:rs267607269",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 115,
+      "wt": "P",
+      "mut": "S",
+      "description": "in Melusine; dbSNP:rs281864887",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 116,
+      "wt": "A",
+      "mut": "D",
+      "description": "in J-Tongariki; dbSNP:rs281864888",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 117,
+      "wt": "E",
+      "mut": "A",
+      "description": "in Ube-4; dbSNP:rs281864946",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 121,
+      "wt": "A",
+      "mut": "E",
+      "description": "in J-Meerut/J-Birmingham; dbSNP:rs36075744",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 122,
+      "wt": "V",
+      "mut": "M",
+      "description": "in Owari; dbSNP:rs35187567",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 123,
+      "wt": "H",
+      "mut": "Q",
+      "description": "in Westmead; dbSNP:rs41479347",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 126,
+      "wt": "L",
+      "mut": "P",
+      "description": "in Quong Sze; causes alpha-thalassemia; dbSNP:rs41397847",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 126,
+      "wt": "L",
+      "mut": "R",
+      "description": "in Plasencia; family with moderate microcytosis and hypochromia; dbSNP:rs41397847",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 127,
+      "wt": "D",
+      "mut": "G",
+      "description": "in West One; dbSNP:rs33957766",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 127,
+      "wt": "D",
+      "mut": "V",
+      "description": "in Fukutomi; O(2) affinity up; dbSNP:rs33957766",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 127,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in Montefiore; O(2) affinity up; dbSNP:rs33933481",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 128,
+      "wt": "K",
+      "mut": "N",
+      "description": "in Jackson; dbSNP:rs33972894",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 130,
+      "wt": "L",
+      "mut": "P",
+      "description": "in Tunis-Bizerte; unstable; causes alpha-thalassemia; dbSNP:rs281864889",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 131,
+      "wt": "A",
+      "mut": "D",
+      "description": "in Yuda; O(2) affinity down; dbSNP:rs41528545",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 131,
+      "wt": "A",
+      "mut": "P",
+      "description": "in Sun Prairie; unstable; dbSNP:rs41529844",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 132,
+      "wt": "S",
+      "mut": "P",
+      "description": "in Questembert; highly unstable; causes alpha-thalassemia; dbSNP:rs63751417",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 134,
+      "wt": "S",
+      "mut": "R",
+      "description": "in Val de Marne; O(2) affinity up; dbSNP:rs56308100 and dbSNP:rs55948437",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 136,
+      "wt": "V",
+      "mut": "E",
+      "description": "in Pavie; dbSNP:rs63749809",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 137,
+      "wt": "L",
+      "mut": "M",
+      "description": "in Chicago; dbSNP:rs41364652",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 137,
+      "wt": "L",
+      "mut": "P",
+      "description": "in Bibba; unstable; causes alpha-thalassemia; dbSNP:rs41469945",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 137,
+      "wt": "L",
+      "mut": "R",
+      "description": "in Toyama; dbSNP:rs41469945",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 139,
+      "wt": "S",
+      "mut": "P",
+      "description": "in Attleboro; O(2) affinity up; dbSNP:rs63750801",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 140,
+      "wt": "K",
+      "mut": "E",
+      "description": "in Hanamaki; O(2) affinity up; dbSNP:rs41361546",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 140,
+      "wt": "K",
+      "mut": "T",
+      "description": "in Tokoname; O(2) affinity up; dbSNP:rs56348461",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 141,
+      "wt": "Y",
+      "mut": "H",
+      "description": "in Rouen/Ethiopia; O(2) affinity up; dbSNP:rs55870409",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 142,
+      "wt": "R",
+      "mut": "C",
+      "description": "in Nunobiki; O(2) affinity up; dbSNP:rs63750134",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 142,
+      "wt": "R",
+      "mut": "H",
+      "description": "in Suresnes; O(2) affinity up; dbSNP:rs33935328",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 142,
+      "wt": "R",
+      "mut": "L",
+      "description": "in Legnano; O(2) affinity up; dbSNP:rs33935328",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 142,
+      "wt": "R",
+      "mut": "P",
+      "description": "in Singapore; dbSNP:rs33935328",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

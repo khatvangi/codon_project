@@ -1,0 +1,16 @@
+{
+  "accession": "P00648",
+  "organism": "Bacillus amyloliquefaciens",
+  "embl_refs": [
+    {
+      "nucleotide_id": "M14442",
+      "protein_id": "AAA86441.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "X12871",
+      "protein_id": "CAA31365.1",
+      "molecule_type": "Genomic_DNA"
+    }
+  ]
+}

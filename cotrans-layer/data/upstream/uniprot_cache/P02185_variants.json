@@ -1,0 +1,15 @@
+{
+  "accession": "P02185",
+  "organism": "Physeter macrocephalus",
+  "n_variants": 1,
+  "variants": [
+    {
+      "uniprot_position": 122,
+      "wt": "G",
+      "mut": "A",
+      "description": "in metmyoglobin",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

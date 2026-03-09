@@ -1,0 +1,71 @@
+{
+  "accession": "P07602",
+  "organism": "Homo sapiens",
+  "n_variants": 8,
+  "variants": [
+    {
+      "uniprot_position": 215,
+      "wt": "N",
+      "mut": "H",
+      "description": "in MLDSAPB; reduces the intracellular activity of the protein significantly; dbSNP:rs121918107",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 215,
+      "wt": "N",
+      "mut": "K",
+      "description": "in MLDSAPB; dbSNP:rs770171865",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 217,
+      "wt": "T",
+      "mut": "I",
+      "description": "in MLDSAPB; juvenile; affects glycosylation at N-215; dbSNP:rs121918103",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 241,
+      "wt": "C",
+      "mut": "S",
+      "description": "in MLDSAPB; severe; dbSNP:rs121918104",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 349,
+      "wt": "L",
+      "mut": "P",
+      "description": "in GDSAPC; dbSNP:rs121918110",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 388,
+      "wt": "C",
+      "mut": "F",
+      "description": "in GDSAPC",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 412,
+      "wt": "C",
+      "mut": "Y",
+      "description": "in PARK24; associated with disease susceptibility; affects the intracellular trafficking, resulting in endoplasmic reticulum retention; affects the intracellular trafficking, resulting in endoplasmic reticulum retention; cells carrying this variant show accumulation of autophagic vacuoles, impaired autophagic flux and alpha-synuclein/SNCA aggregation; dbSNP:rs1842252448",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 453,
+      "wt": "Q",
+      "mut": "P",
+      "description": "in PARK24; associated with disease susceptibility; affects the intracellular trafficking, resulting in endoplasmic reticulum retention; cells carrying this variant show accumulation of autophagic vacuoles, impaired autophagic flux and alpha-synuclein/SNCA aggregation; dbSNP:rs2133029712",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

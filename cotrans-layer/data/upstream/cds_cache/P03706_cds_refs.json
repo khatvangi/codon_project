@@ -1,0 +1,11 @@
+{
+  "accession": "P03706",
+  "organism": "Escherichia phage lambda",
+  "embl_refs": [
+    {
+      "nucleotide_id": "J02459",
+      "protein_id": "AAA96598.1",
+      "molecule_type": "Genomic_DNA"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "accession": "P04439",
+  "organism": "Homo sapiens",
+  "embl_refs": [
+    {
+      "nucleotide_id": "U03862",
+      "protein_id": "AAA03603.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X13111",
+      "protein_id": "CAA31503.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M23739",
+      "protein_id": "AAB47873.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "U83415",
+      "protein_id": "AAB53373.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "U83416",
+      "protein_id": "AAB53374.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M30576",
+      "protein_id": "AAA59612.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M30580",
+      "protein_id": "AAB47870.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M24043",
+      "protein_id": "AAA59652.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M84379",
+      "protein_id": "AAA59606.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M32321",
+      "protein_id": "AAA36234.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X60108",
+      "protein_id": "CAA42702.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M64740",
+      "protein_id": "AAA59600.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M64742",
+      "protein_id": "AAA03662.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X61700",
+      "protein_id": "CAA43869.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X61701",
+      "protein_id": "CAA43870.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X61703",
+      "protein_id": "CAA43872.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X61704",
+      "protein_id": "CAA43873.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X61711",
+      "protein_id": "CAA43880.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M84375",
+      "protein_id": "AAA59599.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "U03697",
+      "protein_id": "AAA03720.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "L18898",
+      "protein_id": "AAA17012.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "D14350",
+      "protein_id": "BAA03279.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "U03754",
+      "protein_id": "AAC04322.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "D16841",
+      "protein_id": "BAA04117.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "U07234",
+      "protein_id": "AAA70162.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AY786587",
+      "protein_id": "AAV53345.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X00492",
+      "protein_id": "CAA25162.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "X03070",
+      "protein_id": "CAB56605.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "X03071",
+      "protein_id": "CAB56606.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "X03158",
+      "protein_id": "CAB56607.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "X03159",
+      "protein_id": "CAB56608.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "K02883",
+      "protein_id": "AAA98727.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "AH003070",
+      "protein_id": "AAA65449.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "X55710",
+      "protein_id": "CAA39243.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "U02935",
+      "protein_id": "AAA76608.2",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "L78918",
+      "protein_id": "AAB05976.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "Z72422",
+      "protein_id": "CAA96532.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "Z93949",
+      "protein_id": "CAB07989.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "EU445484",
+      "protein_id": "ACA35004.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "U03907",
+      "protein_id": "AAA03605.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "U17569",
+      "protein_id": "AAA56779.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "U17570",
+      "protein_id": "AAA56780.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "U32184",
+      "protein_id": "AAB63980.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AJ748743",
+      "protein_id": "CAG38621.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "BC003069",
+      "protein_id": "AAH03069.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "BC008611",
+      "protein_id": "AAH08611.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

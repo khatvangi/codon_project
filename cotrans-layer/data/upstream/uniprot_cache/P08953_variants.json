@@ -1,0 +1,159 @@
+{
+  "accession": "P08953",
+  "organism": "Drosophila melanogaster",
+  "n_variants": 19,
+  "variants": [
+    {
+      "uniprot_position": 98,
+      "wt": "E",
+      "mut": "G",
+      "description": "in strain: MelZim6",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 218,
+      "wt": "G",
+      "mut": "S",
+      "description": "in strain: MelZim7",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 245,
+      "wt": "T",
+      "mut": "S",
+      "description": "in strain: MelZim3",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 390,
+      "wt": "T",
+      "mut": "I",
+      "description": "in strain: MelZim3 and MelZim7",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 414,
+      "wt": "G",
+      "mut": "A",
+      "description": "in strain: MelZim3",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 435,
+      "wt": "V",
+      "mut": "L",
+      "description": "in strain: MelZim8",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 460,
+      "wt": "M",
+      "mut": "T",
+      "description": "in strain: MelZim6",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 471,
+      "wt": "Y",
+      "mut": "D",
+      "description": "in strain: MelZim1, MelZim4, MelZim5 and MelZim6",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 486,
+      "wt": "I",
+      "mut": "R",
+      "description": "in strain: MelZim6",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 513,
+      "wt": "G",
+      "mut": "R",
+      "description": "in strain: MelZim1, MelZim5 and MelZim6",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 538,
+      "wt": "A",
+      "mut": "E",
+      "description": "in strain: MelZim1, MelZim5 and MelZim6",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 544,
+      "wt": "H",
+      "mut": "Y",
+      "description": "in strain: MelZim1, MelZim5 and MelZim6",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 568,
+      "wt": "T",
+      "mut": "M",
+      "description": "in strain: MelZim1, MelZim5 and MelZim6",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 592,
+      "wt": "T",
+      "mut": "A",
+      "description": "in strain: MelZim6",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 603,
+      "wt": "L",
+      "mut": "M",
+      "description": "in strain: MelZim1, MelZim5 and MelZim6",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 681,
+      "wt": "L",
+      "mut": "V",
+      "description": "in strain: MelZim1, MelZim3, MelZim4, MelZim5, MelZim6 and MelZim7",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 714,
+      "wt": "T",
+      "mut": "I",
+      "description": "in strain: MelZim5 and MelZim8",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 732,
+      "wt": "T",
+      "mut": "S",
+      "description": "in strain: MelZim8",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 741,
+      "wt": "M",
+      "mut": "I",
+      "description": "in strain: MelZim1",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

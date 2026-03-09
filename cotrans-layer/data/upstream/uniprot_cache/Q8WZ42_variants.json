@@ -1,0 +1,2383 @@
+{
+  "accession": "Q8WZ42",
+  "organism": "Homo sapiens",
+  "n_variants": 297,
+  "variants": [
+    {
+      "uniprot_position": 54,
+      "wt": "V",
+      "mut": "M",
+      "description": "in CMD1G; affects interaction with TCAP/telethonin; dbSNP:rs139517732",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 60,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in dbSNP:rs35683768",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 115,
+      "wt": "V",
+      "mut": "M",
+      "description": "in a metastatic melanoma sample; somatic mutation; dbSNP:rs564777385",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 279,
+      "wt": "R",
+      "mut": "W",
+      "description": "in MFM9; disrupts NBR1-binding; dbSNP:rs138060032",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 328,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs16866538",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 360,
+      "wt": "R",
+      "mut": "T",
+      "description": "in dbSNP:rs56128843",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 498,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs72647851",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 740,
+      "wt": "R",
+      "mut": "L",
+      "description": "in CMH9; dbSNP:rs28933405",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 743,
+      "wt": "A",
+      "mut": "V",
+      "description": "in CMD1G; affects interaction with TCAP/telethonin; dbSNP:rs267607157",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 799,
+      "wt": "T",
+      "mut": "M",
+      "description": "in a colorectal adenocarcinoma sample; somatic mutation; dbSNP:rs149061352",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 811,
+      "wt": "T",
+      "mut": "I",
+      "description": "in dbSNP:rs35813871",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 922,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs56046320",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 937,
+      "wt": "E",
+      "mut": "D",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 976,
+      "wt": "W",
+      "mut": "R",
+      "description": "in CMD1G; dbSNP:rs267607155",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 1081,
+      "wt": "A",
+      "mut": "T",
+      "description": "in dbSNP:rs55914517",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1137,
+      "wt": "G",
+      "mut": "R",
+      "description": "in dbSNP:rs72647870",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1201,
+      "wt": "K",
+      "mut": "E",
+      "description": "in dbSNP:rs10497520",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1202,
+      "wt": "V",
+      "mut": "A",
+      "description": "in dbSNP:rs150667217",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1249,
+      "wt": "S",
+      "mut": "L",
+      "description": "in dbSNP:rs1552280",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1295,
+      "wt": "S",
+      "mut": "L",
+      "description": "in dbSNP:rs1552280",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1345,
+      "wt": "G",
+      "mut": "D",
+      "description": "in dbSNP:rs36021856",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1347,
+      "wt": "A",
+      "mut": "T",
+      "description": "in a metastatic melanoma sample; somatic mutation; dbSNP:rs267599092",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 1350,
+      "wt": "R",
+      "mut": "H",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation; dbSNP:rs539470256",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 1353,
+      "wt": "V",
+      "mut": "L",
+      "description": "in dbSNP:rs36062108",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1393,
+      "wt": "I",
+      "mut": "V",
+      "description": "in dbSNP:rs16866531",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1416,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs72647875",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1441,
+      "wt": "R",
+      "mut": "P",
+      "description": "in dbSNP:rs72647876",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1544,
+      "wt": "I",
+      "mut": "V",
+      "description": "in dbSNP:rs72647877",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1572,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs12476289",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1658,
+      "wt": "R",
+      "mut": "G",
+      "description": "in dbSNP:rs56270960",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1664,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in an ovarian mucinous carcinoma sample; somatic mutation; dbSNP:rs375029799",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 1692,
+      "wt": "G",
+      "mut": "D",
+      "description": "in a lung squamous cell carcinoma sample; somatic mutation; dbSNP:rs370004591",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 1744,
+      "wt": "P",
+      "mut": "L",
+      "description": "in dbSNP:rs75686037",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1772,
+      "wt": "S",
+      "mut": "G",
+      "description": "in dbSNP:rs150725992",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1907,
+      "wt": "T",
+      "mut": "I",
+      "description": "in a colorectal adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 1998,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs144135510",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 2107,
+      "wt": "P",
+      "mut": "L",
+      "description": "in a colorectal adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 2118,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs56404770",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 2164,
+      "wt": "A",
+      "mut": "T",
+      "description": "in dbSNP:rs56285559",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 2240,
+      "wt": "D",
+      "mut": "Y",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 2392,
+      "wt": "G",
+      "mut": "S",
+      "description": "in dbSNP:rs4894048",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 2432,
+      "wt": "L",
+      "mut": "F",
+      "description": "in a lung neuroendocrine carcinoma sample; somatic mutation; dbSNP:rs571572592",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 2610,
+      "wt": "M",
+      "mut": "I",
+      "description": "in dbSNP:rs56142888",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 2771,
+      "wt": "I",
+      "mut": "M",
+      "description": "in a breast infiltrating ductal carcinoma sample; somatic mutation; dbSNP:rs576644663",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 2823,
+      "wt": "V",
+      "mut": "F",
+      "description": "in dbSNP:rs33917087",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 2831,
+      "wt": "S",
+      "mut": "N",
+      "description": "in dbSNP:rs2306636",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 2930,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs56373393",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 2963,
+      "wt": "T",
+      "mut": "P",
+      "description": "in dbSNP:rs200875815",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3026,
+      "wt": "N",
+      "mut": "I",
+      "description": "in dbSNP:rs11900987",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3154,
+      "wt": "K",
+      "mut": "R",
+      "description": "in dbSNP:rs4893853",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3191,
+      "wt": "Q",
+      "mut": "E",
+      "description": "in dbSNP:rs33997263",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3238,
+      "wt": "P",
+      "mut": "L",
+      "description": "in a bladder carcinoma sample; somatic mutation; dbSNP:rs397517792",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 3250,
+      "wt": "V",
+      "mut": "G",
+      "description": "in dbSNP:rs55634230",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3261,
+      "wt": "V",
+      "mut": "M",
+      "description": "in dbSNP:rs2291311",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3367,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs34819099",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3419,
+      "wt": "S",
+      "mut": "N",
+      "description": "in dbSNP:rs2291310",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3482,
+      "wt": "E",
+      "mut": "K",
+      "description": "in a metastatic melanoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 3491,
+      "wt": "P",
+      "mut": "S",
+      "description": "in dbSNP:rs2627037",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3570,
+      "wt": "E",
+      "mut": "K",
+      "description": "in a breast pleomorphic lobular carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 3590,
+      "wt": "L",
+      "mut": "V",
+      "description": "in dbSNP:rs55853696",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3637,
+      "wt": "P",
+      "mut": "S",
+      "description": "in dbSNP:rs757223770",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3762,
+      "wt": "I",
+      "mut": "V",
+      "description": "in dbSNP:rs34070843",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3799,
+      "wt": "S",
+      "mut": "Y",
+      "description": "in CMD1G",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 3877,
+      "wt": "I",
+      "mut": "F",
+      "description": "in dbSNP:rs34618570",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3965,
+      "wt": "I",
+      "mut": "L",
+      "description": "in dbSNP:rs56244420",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 4084,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs200431386",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 4215,
+      "wt": "T",
+      "mut": "P",
+      "description": "in dbSNP:rs2562829",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 4238,
+      "wt": "G",
+      "mut": "W",
+      "description": "in dbSNP:rs56030296",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 4283,
+      "wt": "L",
+      "mut": "F",
+      "description": "in dbSNP:rs1883085",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 4291,
+      "wt": "I",
+      "mut": "T",
+      "description": "in a colorectal adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 4303,
+      "wt": "G",
+      "mut": "D",
+      "description": "in dbSNP:rs55857742",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 4427,
+      "wt": "D",
+      "mut": "E",
+      "description": "in dbSNP:rs55906845",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 4465,
+      "wt": "S",
+      "mut": "N",
+      "description": "in CMD1G; dbSNP:rs281864908",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 8288,
+      "wt": "A",
+      "mut": "V",
+      "description": "in dbSNP:rs16866412",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 8474,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs4893852",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 12310,
+      "wt": "G",
+      "mut": "E",
+      "description": "in dbSNP:rs55723264",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 12383,
+      "wt": "H",
+      "mut": "R",
+      "description": "in dbSNP:rs2288563",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 12469,
+      "wt": "V",
+      "mut": "A",
+      "description": "in dbSNP:rs34706299",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 12642,
+      "wt": "R",
+      "mut": "C",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation; dbSNP:rs199684560",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 12657,
+      "wt": "E",
+      "mut": "K",
+      "description": "in a Wilms tumor; somatic mutation; dbSNP:rs778634417",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 12679,
+      "wt": "K",
+      "mut": "E",
+      "description": "in dbSNP:rs6723526",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 12720,
+      "wt": "S",
+      "mut": "F",
+      "description": "in a metastatic melanoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 12798,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs200914097",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 13049,
+      "wt": "E",
+      "mut": "G",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 13083,
+      "wt": "E",
+      "mut": "K",
+      "description": "in a metastatic melanoma sample; somatic mutation; dbSNP:rs1458591077",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 13096,
+      "wt": "R",
+      "mut": "L",
+      "description": "in dbSNP:rs373298007",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 13099,
+      "wt": "Q",
+      "mut": "R",
+      "description": "in a lung small cell carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 13297,
+      "wt": "V",
+      "mut": "A",
+      "description": "in dbSNP:rs571522834",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 13399,
+      "wt": "I",
+      "mut": "M",
+      "description": "in dbSNP:rs74580375",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 13418,
+      "wt": "A",
+      "mut": "T",
+      "description": "in dbSNP:rs144668626",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 13428,
+      "wt": "E",
+      "mut": "V",
+      "description": "in dbSNP:rs114331773",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 13430,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs184078045",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 13434,
+      "wt": "R",
+      "mut": "K",
+      "description": "in a breast pleomorphic lobular carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 13469,
+      "wt": "D",
+      "mut": "N",
+      "description": "in dbSNP:rs17354992",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 13495,
+      "wt": "K",
+      "mut": "N",
+      "description": "in dbSNP:rs72677225",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 13785,
+      "wt": "N",
+      "mut": "S",
+      "description": "in a breast pleomorphic lobular carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 13870,
+      "wt": "Q",
+      "mut": "H",
+      "description": "in a lung small cell carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 14109,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs72677232",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 14131,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs72677233",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 14208,
+      "wt": "P",
+      "mut": "T",
+      "description": "in dbSNP:rs146181477",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 14728,
+      "wt": "L",
+      "mut": "V",
+      "description": "in a lung adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 14750,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs200944827",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 14999,
+      "wt": "S",
+      "mut": "T",
+      "description": "in dbSNP:rs55663050",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 15021,
+      "wt": "N",
+      "mut": "T",
+      "description": "in dbSNP:rs36043230",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 15520,
+      "wt": "A",
+      "mut": "V",
+      "description": "in dbSNP:rs16866412",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 15555,
+      "wt": "R",
+      "mut": "I",
+      "description": "in a colorectal adenocarcinoma sample; somatic mutation; dbSNP:rs751398376",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 15620,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs201825412",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 15629,
+      "wt": "S",
+      "mut": "I",
+      "description": "in dbSNP:rs200650668",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 15635,
+      "wt": "Y",
+      "mut": "C",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 15700,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs370390570",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 15705,
+      "wt": "L",
+      "mut": "P",
+      "description": "in dbSNP:rs755155531",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 15837,
+      "wt": "I",
+      "mut": "M",
+      "description": "in dbSNP:rs554368924",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 16046,
+      "wt": "G",
+      "mut": "V",
+      "description": "in dbSNP:rs780672348",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 16058,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs72646808",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 16067,
+      "wt": "K",
+      "mut": "I",
+      "description": "in dbSNP:rs2303832",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 16090,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs72646809",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 16195,
+      "wt": "R",
+      "mut": "H",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation; dbSNP:rs373526624",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 16409,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs55734111",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 16424,
+      "wt": "R",
+      "mut": "P",
+      "description": "in dbSNP:rs375895183",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 16575,
+      "wt": "V",
+      "mut": "M",
+      "description": "in dbSNP:rs3813243",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 16629,
+      "wt": "I",
+      "mut": "M",
+      "description": "in dbSNP:rs55809450",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 16877,
+      "wt": "K",
+      "mut": "R",
+      "description": "in dbSNP:rs72646823",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 17060,
+      "wt": "N",
+      "mut": "D",
+      "description": "in dbSNP:rs1001238",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 17637,
+      "wt": "I",
+      "mut": "V",
+      "description": "in dbSNP:rs56025724",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 17838,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs2288569",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 17866,
+      "wt": "D",
+      "mut": "N",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 17906,
+      "wt": "G",
+      "mut": "E",
+      "description": "in a metastatic melanoma sample; somatic mutation; dbSNP:rs374713701",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 18094,
+      "wt": "E",
+      "mut": "A",
+      "description": "in dbSNP:rs769852851",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 18109,
+      "wt": "G",
+      "mut": "S",
+      "description": "in dbSNP:rs200732032",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 18164,
+      "wt": "R",
+      "mut": "T",
+      "description": "in an ovarian serous carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 18221,
+      "wt": "P",
+      "mut": "L",
+      "description": "in dbSNP:rs16866406",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 18222,
+      "wt": "A",
+      "mut": "T",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 18726,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs141973925",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 18835,
+      "wt": "V",
+      "mut": "A",
+      "description": "in a breast infiltrating ductal carcinoma sample; somatic mutation; dbSNP:rs1336054298",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 18881,
+      "wt": "R",
+      "mut": "K",
+      "description": "in a metastatic melanoma sample; somatic mutation; dbSNP:rs1204056923",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 18939,
+      "wt": "N",
+      "mut": "S",
+      "description": "in dbSNP:rs1470758075",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 19000,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs199895260",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 19060,
+      "wt": "L",
+      "mut": "Q",
+      "description": "in a lung large cell carcinoma sample; somatic mutation; dbSNP:rs1383995916",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 19091,
+      "wt": "R",
+      "mut": "K",
+      "description": "in a lung large cell carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 19224,
+      "wt": "P",
+      "mut": "S",
+      "description": "in a colorectal adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 19367,
+      "wt": "T",
+      "mut": "I",
+      "description": "in dbSNP:rs72646850",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 19392,
+      "wt": "E",
+      "mut": "K",
+      "description": "in a lung neuroendocrine carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 19480,
+      "wt": "A",
+      "mut": "S",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 19495,
+      "wt": "D",
+      "mut": "G",
+      "description": "in dbSNP:rs773075736",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 19665,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs202240487",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 19762,
+      "wt": "T",
+      "mut": "I",
+      "description": "in dbSNP:rs2042996",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 19947,
+      "wt": "G",
+      "mut": "R",
+      "description": "in dbSNP:rs181717727",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 19956,
+      "wt": "V",
+      "mut": "M",
+      "description": "in dbSNP:rs150661999",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 19992,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs141965360",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20057,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs72646861",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20075,
+      "wt": "S",
+      "mut": "L",
+      "description": "in dbSNP:rs13021201",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20179,
+      "wt": "T",
+      "mut": "K",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20198,
+      "wt": "A",
+      "mut": "T",
+      "description": "in dbSNP:rs56378177",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20198,
+      "wt": "A",
+      "mut": "V",
+      "description": "in dbSNP:rs55948748",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20331,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs200217934",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20359,
+      "wt": "R",
+      "mut": "K",
+      "description": "in dbSNP:rs9808036",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20408,
+      "wt": "A",
+      "mut": "T",
+      "description": "in a metastatic melanoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 20564,
+      "wt": "R",
+      "mut": "K",
+      "description": "in dbSNP:rs72646869",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20718,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs2303838",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20726,
+      "wt": "S",
+      "mut": "P",
+      "description": "in dbSNP:rs72646873",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20892,
+      "wt": "T",
+      "mut": "N",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 20894,
+      "wt": "S",
+      "mut": "R",
+      "description": "in dbSNP:rs750847940",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 21125,
+      "wt": "D",
+      "mut": "E",
+      "description": "in dbSNP:rs534340303",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 21403,
+      "wt": "P",
+      "mut": "S",
+      "description": "in dbSNP:rs55980498",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 21730,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs56141309",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 21747,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs55853138",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 21851,
+      "wt": "C",
+      "mut": "R",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation; dbSNP:rs55713867",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 21925,
+      "wt": "G",
+      "mut": "R",
+      "description": "in dbSNP:rs55801134",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 21995,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs56071233",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 22045,
+      "wt": "A",
+      "mut": "V",
+      "description": "in dbSNP:rs55903402",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 22149,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs55677134",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 22160,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs55885640",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 22261,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs55837610",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 22306,
+      "wt": "K",
+      "mut": "N",
+      "description": "in dbSNP:rs56019808",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 22357,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs10164753",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 22408,
+      "wt": "L",
+      "mut": "P",
+      "description": "in dbSNP:rs56399205",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 22537,
+      "wt": "Q",
+      "mut": "H",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 22584,
+      "wt": "P",
+      "mut": "L",
+      "description": "in dbSNP:rs55992239",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 22646,
+      "wt": "L",
+      "mut": "P",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 22670,
+      "wt": "T",
+      "mut": "A",
+      "description": "in dbSNP:rs56201325",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 22770,
+      "wt": "A",
+      "mut": "D",
+      "description": "in dbSNP:rs55991022",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 22801,
+      "wt": "A",
+      "mut": "T",
+      "description": "in a metastatic melanoma sample; somatic mutation; dbSNP:rs764005465",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 22823,
+      "wt": "R",
+      "mut": "W",
+      "description": "in a metastatic melanoma sample; somatic mutation; dbSNP:rs369098292",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 22968,
+      "wt": "E",
+      "mut": "Q",
+      "description": "in dbSNP:rs55762754",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 23074,
+      "wt": "P",
+      "mut": "L",
+      "description": "in dbSNP:rs55713856",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 23079,
+      "wt": "L",
+      "mut": "F",
+      "description": "in a metastatic melanoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 23282,
+      "wt": "D",
+      "mut": "N",
+      "description": "in a breast infiltrating ductal carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 23303,
+      "wt": "H",
+      "mut": "Y",
+      "description": "in a metastatic melanoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 23306,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs744426",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 23515,
+      "wt": "A",
+      "mut": "S",
+      "description": "in a lung squamous cell carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 23551,
+      "wt": "E",
+      "mut": "Q",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 23807,
+      "wt": "S",
+      "mut": "N",
+      "description": "in dbSNP:rs3813243",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 23872,
+      "wt": "D",
+      "mut": "N",
+      "description": "in an ovarian serous carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 23891,
+      "wt": "V",
+      "mut": "A",
+      "description": "in dbSNP:rs55984930",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 23933,
+      "wt": "Y",
+      "mut": "H",
+      "description": "in dbSNP:rs3813245",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 23939,
+      "wt": "T",
+      "mut": "M",
+      "description": "in dbSNP:rs56372592",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 23952,
+      "wt": "F",
+      "mut": "L",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 24098,
+      "wt": "A",
+      "mut": "G",
+      "description": "in dbSNP:rs56391938",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 24098,
+      "wt": "A",
+      "mut": "T",
+      "description": "in dbSNP:rs4894028",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 24119,
+      "wt": "N",
+      "mut": "S",
+      "description": "in dbSNP:rs3813246",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 24133,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs56340968",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 24159,
+      "wt": "V",
+      "mut": "A",
+      "description": "in a head and neck squamous cell carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 24239,
+      "wt": "T",
+      "mut": "A",
+      "description": "in dbSNP:rs56018860",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 24265,
+      "wt": "E",
+      "mut": "K",
+      "description": "in dbSNP:rs56341835",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 24584,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs12463674",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 24781,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs3731745",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 24799,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs56044609",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 24954,
+      "wt": "D",
+      "mut": "H",
+      "description": "in dbSNP:rs56307213",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 24980,
+      "wt": "T",
+      "mut": "M",
+      "description": "in dbSNP:rs3731746",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 25659,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs55850344",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 25679,
+      "wt": "A",
+      "mut": "T",
+      "description": "in dbSNP:rs56365600",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 25720,
+      "wt": "P",
+      "mut": "A",
+      "description": "in dbSNP:rs56137800",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 25821,
+      "wt": "T",
+      "mut": "K",
+      "description": "in dbSNP:rs55933739",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 25859,
+      "wt": "E",
+      "mut": "K",
+      "description": "in a metastatic melanoma sample; somatic mutation; dbSNP:rs375422359",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 25879,
+      "wt": "N",
+      "mut": "K",
+      "description": "in dbSNP:rs56264840",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 25923,
+      "wt": "A",
+      "mut": "V",
+      "description": "in dbSNP:rs55634791",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 26045,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs56309296",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 26059,
+      "wt": "K",
+      "mut": "E",
+      "description": "in a lung small cell carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 26134,
+      "wt": "I",
+      "mut": "V",
+      "description": "in dbSNP:rs3829746",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 26477,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs56057221",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 26843,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in dbSNP:rs56330345",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 27346,
+      "wt": "K",
+      "mut": "R",
+      "description": "in dbSNP:rs1186947794",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 27652,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs191482653",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 27728,
+      "wt": "G",
+      "mut": "V",
+      "description": "in dbSNP:rs55898359",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 27754,
+      "wt": "F",
+      "mut": "L",
+      "description": "in dbSNP:rs55940667",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 27755,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs9808377",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 27929,
+      "wt": "I",
+      "mut": "V",
+      "description": "in dbSNP:rs139506970",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 28132,
+      "wt": "I",
+      "mut": "L",
+      "description": "in dbSNP:rs77853750",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 28168,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs72648238",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 28538,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs149567378",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 28572,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs114026724",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 28948,
+      "wt": "A",
+      "mut": "T",
+      "description": "in dbSNP:rs148617456",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 28986,
+      "wt": "I",
+      "mut": "V",
+      "description": "in dbSNP:rs535151633",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 28993,
+      "wt": "G",
+      "mut": "E",
+      "description": "in dbSNP:rs376628842",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 28998,
+      "wt": "L",
+      "mut": "V",
+      "description": "in dbSNP:rs373049260",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 29070,
+      "wt": "V",
+      "mut": "M",
+      "description": "in dbSNP:rs747122",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 29090,
+      "wt": "I",
+      "mut": "V",
+      "description": "in dbSNP:rs16866391",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 29419,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs750303653",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 29479,
+      "wt": "L",
+      "mut": "P",
+      "description": "in dbSNP:rs1310673663",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 29880,
+      "wt": "S",
+      "mut": "L",
+      "description": "in a colorectal adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 29976,
+      "wt": "D",
+      "mut": "E",
+      "description": "in dbSNP:rs72648256",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30042,
+      "wt": "S",
+      "mut": "G",
+      "description": "in dbSNP:rs72648257",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30107,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs142525903",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30125,
+      "wt": "S",
+      "mut": "F",
+      "description": "in dbSNP:rs191484894",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30211,
+      "wt": "L",
+      "mut": "P",
+      "description": "in dbSNP:rs62621206",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30412,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs62621236",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30617,
+      "wt": "T",
+      "mut": "S",
+      "description": "in a renal chromophobe cancer sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 30674,
+      "wt": "T",
+      "mut": "I",
+      "description": "in dbSNP:rs56027402",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30809,
+      "wt": "V",
+      "mut": "I",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation; dbSNP:rs397517769",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 30818,
+      "wt": "F",
+      "mut": "I",
+      "description": "in dbSNP:rs56009327",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30825,
+      "wt": "E",
+      "mut": "K",
+      "description": "in dbSNP:rs55915651",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30856,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs55660660",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30887,
+      "wt": "G",
+      "mut": "D",
+      "description": "in dbSNP:rs56066673",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30887,
+      "wt": "G",
+      "mut": "S",
+      "description": "in dbSNP:rs56233675",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30897,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs3731749",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30907,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs55676195",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30946,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs55704830",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 31081,
+      "wt": "I",
+      "mut": "F",
+      "description": "in dbSNP:rs72648270",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 31107,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs72648272",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 31124,
+      "wt": "A",
+      "mut": "G",
+      "description": "in dbSNP:rs72648273",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 31156,
+      "wt": "N",
+      "mut": "S",
+      "description": "in dbSNP:rs149001703",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 31246,
+      "wt": "P",
+      "mut": "T",
+      "description": "in dbSNP:rs55653324",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 31330,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs4894028",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 31690,
+      "wt": "C",
+      "mut": "R",
+      "description": "in dbSNP:rs56061641",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 31724,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs55742743",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 31725,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs55675869",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 31732,
+      "wt": "G",
+      "mut": "S",
+      "description": "in dbSNP:rs55880786",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 31886,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs2278196",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32097,
+      "wt": "R",
+      "mut": "C",
+      "description": "in dbSNP:rs56273463",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32171,
+      "wt": "T",
+      "mut": "N",
+      "description": "in a lung large cell carcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 32248,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs34924609",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32281,
+      "wt": "Q",
+      "mut": "H",
+      "description": "in dbSNP:rs55886356",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32323,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs55669553",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32411,
+      "wt": "R",
+      "mut": "W",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation; dbSNP:rs756924372",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 32558,
+      "wt": "I",
+      "mut": "V",
+      "description": "in dbSNP:rs56347248",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32610,
+      "wt": "M",
+      "mut": "V",
+      "description": "in dbSNP:rs56173891",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32637,
+      "wt": "G",
+      "mut": "V",
+      "description": "in dbSNP:rs3731752",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32742,
+      "wt": "E",
+      "mut": "Q",
+      "description": "in dbSNP:rs148525155",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32922,
+      "wt": "V",
+      "mut": "A",
+      "description": "in dbSNP:rs55945684",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32943,
+      "wt": "L",
+      "mut": "R",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 32953,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs3829747",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 32996,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in CMD1G; dbSNP:rs199642423",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 33213,
+      "wt": "V",
+      "mut": "L",
+      "description": "in dbSNP:rs55866005",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33242,
+      "wt": "R",
+      "mut": "C",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation; dbSNP:rs1003158162",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 33387,
+      "wt": "T",
+      "mut": "M",
+      "description": "in dbSNP:rs56001826",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33419,
+      "wt": "E",
+      "mut": "D",
+      "description": "in dbSNP:rs56308529",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33536,
+      "wt": "V",
+      "mut": "M",
+      "description": "in dbSNP:rs55865284",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33568,
+      "wt": "K",
+      "mut": "Q",
+      "description": "in dbSNP:rs56365812",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33616,
+      "wt": "E",
+      "mut": "K",
+      "description": "in dbSNP:rs56324595",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33620,
+      "wt": "P",
+      "mut": "L",
+      "description": "in dbSNP:rs16866380",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33886,
+      "wt": "E",
+      "mut": "V",
+      "description": "in dbSNP:rs55725279",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33899,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs55880440",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33904,
+      "wt": "L",
+      "mut": "P",
+      "description": "in a gastric adenocarcinoma sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 33955,
+      "wt": "T",
+      "mut": "I",
+      "description": "in dbSNP:rs55842557",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 34115,
+      "wt": "V",
+      "mut": "A",
+      "description": "in dbSNP:rs16866378",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 34306,
+      "wt": "I",
+      "mut": "N",
+      "description": "in TMD; dbSNP:rs281864928",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 34315,
+      "wt": "L",
+      "mut": "P",
+      "description": "in TMD; dbSNP:rs267607156",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

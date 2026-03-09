@@ -1,0 +1,16 @@
+{
+  "accession": "P13231",
+  "organism": "Dictyostelium discoideum",
+  "embl_refs": [
+    {
+      "nucleotide_id": "J04472",
+      "protein_id": "AAA33218.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AAFI02000045",
+      "protein_id": "EAL66350.1",
+      "molecule_type": "Genomic_DNA"
+    }
+  ]
+}

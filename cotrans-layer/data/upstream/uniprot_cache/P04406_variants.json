@@ -1,0 +1,23 @@
+{
+  "accession": "P04406",
+  "organism": "Homo sapiens",
+  "n_variants": 2,
+  "variants": [
+    {
+      "uniprot_position": 22,
+      "wt": "A",
+      "mut": "G",
+      "description": "in dbSNP:rs45541435",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 251,
+      "wt": "K",
+      "mut": "N",
+      "description": "in dbSNP:rs1062429",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

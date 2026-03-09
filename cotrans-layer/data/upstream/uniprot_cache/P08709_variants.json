@@ -1,0 +1,967 @@
+{
+  "accession": "P08709",
+  "organism": "Homo sapiens",
+  "n_variants": 120,
+  "variants": [
+    {
+      "uniprot_position": 13,
+      "wt": "L",
+      "mut": "P",
+      "description": "in FA7D; Morioka; dbSNP:rs387906507",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 64,
+      "wt": "F",
+      "mut": "L",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 73,
+      "wt": "L",
+      "mut": "Q",
+      "description": "in FA7D; dbSNP:rs45572939",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 79,
+      "wt": "E",
+      "mut": "Q",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 82,
+      "wt": "C",
+      "mut": "F",
+      "description": "in FA7D; dbSNP:rs1448296564",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 82,
+      "wt": "C",
+      "mut": "R",
+      "description": "in FA7D; dbSNP:rs745374448",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 85,
+      "wt": "E",
+      "mut": "K",
+      "description": "in FA7D; dbSNP:rs121964935",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 88,
+      "wt": "R",
+      "mut": "G",
+      "description": "in FA7D; dbSNP:rs776354144",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 88,
+      "wt": "R",
+      "mut": "P",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 117,
+      "wt": "N",
+      "mut": "D",
+      "description": "in FA7D; exhibits no procoagulant activity and is unable to bind tissue factor; dbSNP:rs121964932",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 120,
+      "wt": "S",
+      "mut": "P",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 121,
+      "wt": "C",
+      "mut": "F",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 125,
+      "wt": "L",
+      "mut": "P",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 128,
+      "wt": "Y",
+      "mut": "C",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 138,
+      "wt": "G",
+      "mut": "D",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 139,
+      "wt": "R",
+      "mut": "K",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 139,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in FA7D; Charlotte; dbSNP:rs150525536",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 139,
+      "wt": "R",
+      "mut": "W",
+      "description": "in FA7D; dbSNP:rs776796178",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 151,
+      "wt": "C",
+      "mut": "S",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 154,
+      "wt": "E",
+      "mut": "K",
+      "description": "in FA7D; dbSNP:rs146795869",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 156,
+      "wt": "G",
+      "mut": "S",
+      "description": "in FA7D; dbSNP:rs563972504",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 157,
+      "wt": "G",
+      "mut": "C",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 157,
+      "wt": "G",
+      "mut": "S",
+      "description": "in FA7D; dbSNP:rs763458490",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 157,
+      "wt": "G",
+      "mut": "V",
+      "description": "in FA7D; dbSNP:rs771335282",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 160,
+      "wt": "Q",
+      "mut": "R",
+      "description": "in FA7D; dbSNP:rs200016360",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 171,
+      "wt": "S",
+      "mut": "F",
+      "description": "in FA7D; dbSNP:rs143855920",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 177,
+      "wt": "G",
+      "mut": "R",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 181,
+      "wt": "L",
+      "mut": "P",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 183,
+      "wt": "D",
+      "mut": "N",
+      "description": "in FA7D; dbSNP:rs1258691292",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 186,
+      "wt": "S",
+      "mut": "F",
+      "description": "in FA7D; dbSNP:rs764971156",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 189,
+      "wt": "P",
+      "mut": "S",
+      "description": "in FA7D; dbSNP:rs1479693459",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 194,
+      "wt": "P",
+      "mut": "L",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 194,
+      "wt": "P",
+      "mut": "T",
+      "description": "in FA7D; Malta-I; dbSNP:rs1234759020",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 195,
+      "wt": "C",
+      "mut": "R",
+      "description": "in FA7D; dbSNP:rs372577568",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 197,
+      "wt": "K",
+      "mut": "E",
+      "description": "in FA7D; dbSNP:rs1250204261",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 198,
+      "wt": "I",
+      "mut": "T",
+      "description": "in FA7D; dbSNP:rs762621913",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 212,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in FA7D; Charlotte; dbSNP:rs868044209",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 213,
+      "wt": "I",
+      "mut": "N",
+      "description": "in FA7D; results in severely decreased clot formation in coagulation assays",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 216,
+      "wt": "G",
+      "mut": "D",
+      "description": "in FA7D; dbSNP:rs1438503836",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 238,
+      "wt": "C",
+      "mut": "F",
+      "description": "in FA7D; results in loss of function and lack of clot formation in coagulation assays",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 238,
+      "wt": "C",
+      "mut": "Y",
+      "description": "in FA7D; dbSNP:rs121964928",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 240,
+      "wt": "G",
+      "mut": "R",
+      "description": "in FA7D; dbSNP:rs2036214367",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 241,
+      "wt": "T",
+      "mut": "N",
+      "description": "in FA7D; dbSNP:rs1160146175",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 250,
+      "wt": "S",
+      "mut": "F",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 251,
+      "wt": "A",
+      "mut": "P",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 251,
+      "wt": "A",
+      "mut": "T",
+      "description": "in FA7D; dbSNP:rs1269916662",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 252,
+      "wt": "A",
+      "mut": "V",
+      "description": "in FA7D; results in loss of function and lack of clot formation in coagulation assays",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 254,
+      "wt": "C",
+      "mut": "R",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 254,
+      "wt": "C",
+      "mut": "Y",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 264,
+      "wt": "L",
+      "mut": "P",
+      "description": "in FA7D; dbSNP:rs753266903",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 266,
+      "wt": "A",
+      "mut": "T",
+      "description": "in FA7D; dbSNP:rs764807079",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 272,
+      "wt": "D",
+      "mut": "N",
+      "description": "in FA7D; dbSNP:rs751028917",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 277,
+      "wt": "D",
+      "mut": "N",
+      "description": "in FA7D; dbSNP:rs550074221",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 283,
+      "wt": "R",
+      "mut": "W",
+      "description": "in FA7D; dbSNP:rs779589651",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 295,
+      "wt": "V",
+      "mut": "D",
+      "description": "in dbSNP:rs6045",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 298,
+      "wt": "T",
+      "mut": "I",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 301,
+      "wt": "H",
+      "mut": "Q",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 302,
+      "wt": "D",
+      "mut": "H",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 302,
+      "wt": "D",
+      "mut": "N",
+      "description": "in FA7D; dbSNP:rs770328850",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 304,
+      "wt": "A",
+      "mut": "T",
+      "description": "in FA7D; dbSNP:rs773627551",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 304,
+      "wt": "A",
+      "mut": "V",
+      "description": "in FA7D; Malta-II; dbSNP:rs121964931",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 307,
+      "wt": "R",
+      "mut": "C",
+      "description": "in FA7D; dbSNP:rs147680958",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 307,
+      "wt": "R",
+      "mut": "H",
+      "description": "in FA7D; Mie; dbSNP:rs121964929",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 312,
+      "wt": "V",
+      "mut": "M",
+      "description": "in FA7D; dbSNP:rs201991361",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 314,
+      "wt": "L",
+      "mut": "V",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 321,
+      "wt": "L",
+      "mut": "F",
+      "description": "in FA7D; dbSNP:rs778138366",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 323,
+      "wt": "L",
+      "mut": "R",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 325,
+      "wt": "E",
+      "mut": "K",
+      "description": "in FA7D; dbSNP:rs749760143",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 326,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in FA7D; dbSNP:rs146698837",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 332,
+      "wt": "T",
+      "mut": "M",
+      "description": "in FA7D; dbSNP:rs200212201",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 336,
+      "wt": "V",
+      "mut": "M",
+      "description": "in FA7D; uncertain significance; results in decreased clot formation in coagulation assays; dbSNP:rs374305125",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 337,
+      "wt": "R",
+      "mut": "C",
+      "description": "in FA7D; dbSNP:rs139372641",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 341,
+      "wt": "V",
+      "mut": "F",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 342,
+      "wt": "S",
+      "mut": "G",
+      "description": "in FA7D; results in severely decreased clot formation in coagulation assays",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 343,
+      "wt": "G",
+      "mut": "S",
+      "description": "in FA7D; dbSNP:rs1250853566",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 344,
+      "wt": "W",
+      "mut": "G",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 344,
+      "wt": "W",
+      "mut": "R",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 345,
+      "wt": "G",
+      "mut": "S",
+      "description": "in FA7D; dbSNP:rs2036242082",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 350,
+      "wt": "R",
+      "mut": "C",
+      "description": "in FA7D; dbSNP:rs747876824",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 352,
+      "wt": "A",
+      "mut": "T",
+      "description": "in dbSNP:rs3093267",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 354,
+      "wt": "A",
+      "mut": "V",
+      "description": "in FA7D; dbSNP:rs36209567",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 358,
+      "wt": "M",
+      "mut": "I",
+      "description": "in FA7D; dbSNP:rs149283257",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 358,
+      "wt": "M",
+      "mut": "V",
+      "description": "in FA7D; dbSNP:rs928183869",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 360,
+      "wt": "L",
+      "mut": "P",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 363,
+      "wt": "P",
+      "mut": "H",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 363,
+      "wt": "P",
+      "mut": "R",
+      "description": "in FA7D; dbSNP:rs963430078",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 364,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in FA7D; Harrow/Padua; dbSNP:rs121964926",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 364,
+      "wt": "R",
+      "mut": "W",
+      "description": "in FA7D; dbSNP:rs750980786",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 367,
+      "wt": "T",
+      "mut": "S",
+      "description": "in dbSNP:rs747673406",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 370,
+      "wt": "C",
+      "mut": "F",
+      "description": "in FA7D; dbSNP:rs121964927",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 375,
+      "wt": "R",
+      "mut": "W",
+      "description": "in FA7D; dbSNP:rs137919286",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 384,
+      "wt": "T",
+      "mut": "M",
+      "description": "in FA7D; dbSNP:rs531225271",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 387,
+      "wt": "M",
+      "mut": "T",
+      "description": "in FA7D; dbSNP:rs1595080725",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 387,
+      "wt": "M",
+      "mut": "V",
+      "description": "in FA7D; dbSNP:rs1215224419",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 388,
+      "wt": "F",
+      "mut": "S",
+      "description": "in FA7D; reduces tissue factor binding; impairs activation by factor Xa; abolishes amidolytic and coagulant activities; dbSNP:rs121964938",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 389,
+      "wt": "C",
+      "mut": "G",
+      "description": "in FA7D; dbSNP:rs121964934",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 391,
+      "wt": "G",
+      "mut": "C",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 391,
+      "wt": "G",
+      "mut": "S",
+      "description": "in FA7D; dbSNP:rs190485816",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 398,
+      "wt": "D",
+      "mut": "E",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 401,
+      "wt": "K",
+      "mut": "E",
+      "description": "in FA7D; dbSNP:rs748979195",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 402,
+      "wt": "G",
+      "mut": "E",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 402,
+      "wt": "G",
+      "mut": "R",
+      "description": "in FA7D; dbSNP:rs2142234194",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 403,
+      "wt": "D",
+      "mut": "H",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 404,
+      "wt": "S",
+      "mut": "N",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 408,
+      "wt": "H",
+      "mut": "Q",
+      "description": "in FA7D; dbSNP:rs121964936",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 408,
+      "wt": "H",
+      "mut": "R",
+      "description": "in FA7D; dbSNP:rs1566910847",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 413,
+      "wt": "R",
+      "mut": "G",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 413,
+      "wt": "R",
+      "mut": "Q",
+      "description": "may be associated with decreased susceptibility to myocardial infarction; dbSNP:rs6046",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 414,
+      "wt": "G",
+      "mut": "C",
+      "description": "in FA7D; results in severely impaired protein secretion; dbSNP:rs121964937",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 419,
+      "wt": "T",
+      "mut": "M",
+      "description": "in FA7D; dbSNP:rs121964930",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 420,
+      "wt": "G",
+      "mut": "D",
+      "description": "in FA7D; results in loss of function and lack of clot formation in coagulation assays",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 422,
+      "wt": "V",
+      "mut": "F",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 425,
+      "wt": "G",
+      "mut": "A",
+      "description": "in FA7D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 425,
+      "wt": "G",
+      "mut": "C",
+      "description": "in FA7D; dbSNP:rs2036249208",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 429,
+      "wt": "A",
+      "mut": "T",
+      "description": "in FA7D; dbSNP:rs755377592",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 432,
+      "wt": "G",
+      "mut": "D",
+      "description": "in FA7D; dbSNP:rs1450120320",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 432,
+      "wt": "G",
+      "mut": "S",
+      "description": "in FA7D; results in severely decreased clot formation in coagulation assays; dbSNP:rs1317151633",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 435,
+      "wt": "G",
+      "mut": "E",
+      "description": "in FA7D; dbSNP:rs756956471",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 437,
+      "wt": "Y",
+      "mut": "F",
+      "description": "in FA7D; dbSNP:rs758213652",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 445,
+      "wt": "E",
+      "mut": "K",
+      "description": "in dbSNP:rs3093248",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

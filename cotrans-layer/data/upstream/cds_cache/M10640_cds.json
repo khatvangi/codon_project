@@ -1,0 +1,8 @@
+{
+  "nucleotide_id": "M10640",
+  "cds_sequence": "ATGAACGCCTGGGTCGCCTGGCGCAACAGCTGTAAGGGCACCGACGTCCAAGCGTGGATCAGGGGATGCCGC",
+  "protein_sequence": "MNAWVAWRNSCKGTDVQAWIRGCR",
+  "length_nt": 72,
+  "length_aa": 24,
+  "matched_protein_id": true
+}

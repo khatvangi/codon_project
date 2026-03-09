@@ -1,0 +1,11 @@
+{
+  "accession": "P02640",
+  "organism": "Gallus gallus",
+  "embl_refs": [
+    {
+      "nucleotide_id": "J03781",
+      "protein_id": "AAA49133.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

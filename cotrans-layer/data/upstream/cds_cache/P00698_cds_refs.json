@@ -1,0 +1,946 @@
+{
+  "accession": "P00698",
+  "organism": "Gallus gallus",
+  "embl_refs": [
+    {
+      "nucleotide_id": "J00885",
+      "protein_id": "AAA48943.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "V00428",
+      "protein_id": "CAA23711.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AF410481",
+      "protein_id": "AAL69327.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M10640",
+      "protein_id": "AAA48944.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "FJ542373",
+      "protein_id": "ACL81571.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542374",
+      "protein_id": "ACL81572.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542375",
+      "protein_id": "ACL81573.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542376",
+      "protein_id": "ACL81574.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542377",
+      "protein_id": "ACL81575.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542378",
+      "protein_id": "ACL81576.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542379",
+      "protein_id": "ACL81577.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542380",
+      "protein_id": "ACL81578.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542381",
+      "protein_id": "ACL81579.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542382",
+      "protein_id": "ACL81580.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542383",
+      "protein_id": "ACL81581.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542384",
+      "protein_id": "ACL81582.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542385",
+      "protein_id": "ACL81583.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542386",
+      "protein_id": "ACL81584.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542387",
+      "protein_id": "ACL81585.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542388",
+      "protein_id": "ACL81586.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542389",
+      "protein_id": "ACL81587.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542390",
+      "protein_id": "ACL81588.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542391",
+      "protein_id": "ACL81589.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542392",
+      "protein_id": "ACL81590.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542393",
+      "protein_id": "ACL81591.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542394",
+      "protein_id": "ACL81592.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542395",
+      "protein_id": "ACL81593.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542396",
+      "protein_id": "ACL81594.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542397",
+      "protein_id": "ACL81595.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542398",
+      "protein_id": "ACL81596.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542399",
+      "protein_id": "ACL81597.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542400",
+      "protein_id": "ACL81598.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542401",
+      "protein_id": "ACL81599.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542402",
+      "protein_id": "ACL81600.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542403",
+      "protein_id": "ACL81601.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542404",
+      "protein_id": "ACL81602.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542405",
+      "protein_id": "ACL81603.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542406",
+      "protein_id": "ACL81604.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542407",
+      "protein_id": "ACL81605.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542408",
+      "protein_id": "ACL81606.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542409",
+      "protein_id": "ACL81607.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542410",
+      "protein_id": "ACL81608.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542411",
+      "protein_id": "ACL81609.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542412",
+      "protein_id": "ACL81610.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542413",
+      "protein_id": "ACL81611.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542414",
+      "protein_id": "ACL81612.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542415",
+      "protein_id": "ACL81613.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542416",
+      "protein_id": "ACL81614.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542417",
+      "protein_id": "ACL81615.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542418",
+      "protein_id": "ACL81616.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542419",
+      "protein_id": "ACL81617.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542420",
+      "protein_id": "ACL81618.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542421",
+      "protein_id": "ACL81619.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542422",
+      "protein_id": "ACL81620.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542423",
+      "protein_id": "ACL81621.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542424",
+      "protein_id": "ACL81622.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542425",
+      "protein_id": "ACL81623.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542426",
+      "protein_id": "ACL81624.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542427",
+      "protein_id": "ACL81625.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542428",
+      "protein_id": "ACL81626.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542429",
+      "protein_id": "ACL81627.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542430",
+      "protein_id": "ACL81628.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542431",
+      "protein_id": "ACL81629.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542432",
+      "protein_id": "ACL81630.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542433",
+      "protein_id": "ACL81631.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542434",
+      "protein_id": "ACL81632.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542435",
+      "protein_id": "ACL81633.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542436",
+      "protein_id": "ACL81634.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542437",
+      "protein_id": "ACL81635.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542438",
+      "protein_id": "ACL81636.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542439",
+      "protein_id": "ACL81637.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542440",
+      "protein_id": "ACL81638.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542441",
+      "protein_id": "ACL81639.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542442",
+      "protein_id": "ACL81640.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542443",
+      "protein_id": "ACL81641.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542444",
+      "protein_id": "ACL81642.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542445",
+      "protein_id": "ACL81643.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542446",
+      "protein_id": "ACL81644.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542447",
+      "protein_id": "ACL81645.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542448",
+      "protein_id": "ACL81646.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542449",
+      "protein_id": "ACL81647.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542450",
+      "protein_id": "ACL81648.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542451",
+      "protein_id": "ACL81649.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542452",
+      "protein_id": "ACL81650.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542453",
+      "protein_id": "ACL81651.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542454",
+      "protein_id": "ACL81652.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542455",
+      "protein_id": "ACL81653.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542456",
+      "protein_id": "ACL81654.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542457",
+      "protein_id": "ACL81655.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542458",
+      "protein_id": "ACL81656.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542459",
+      "protein_id": "ACL81657.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542460",
+      "protein_id": "ACL81658.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542461",
+      "protein_id": "ACL81659.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542462",
+      "protein_id": "ACL81660.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542463",
+      "protein_id": "ACL81661.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542464",
+      "protein_id": "ACL81662.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542465",
+      "protein_id": "ACL81663.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542466",
+      "protein_id": "ACL81664.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542467",
+      "protein_id": "ACL81665.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542468",
+      "protein_id": "ACL81666.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542469",
+      "protein_id": "ACL81667.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542470",
+      "protein_id": "ACL81668.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542471",
+      "protein_id": "ACL81669.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542472",
+      "protein_id": "ACL81670.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542473",
+      "protein_id": "ACL81671.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542474",
+      "protein_id": "ACL81672.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542475",
+      "protein_id": "ACL81673.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542476",
+      "protein_id": "ACL81674.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542477",
+      "protein_id": "ACL81675.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542478",
+      "protein_id": "ACL81676.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542479",
+      "protein_id": "ACL81677.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542480",
+      "protein_id": "ACL81678.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542481",
+      "protein_id": "ACL81679.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542482",
+      "protein_id": "ACL81680.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542483",
+      "protein_id": "ACL81681.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542484",
+      "protein_id": "ACL81682.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542485",
+      "protein_id": "ACL81683.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542486",
+      "protein_id": "ACL81684.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542487",
+      "protein_id": "ACL81685.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542488",
+      "protein_id": "ACL81686.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542489",
+      "protein_id": "ACL81687.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542490",
+      "protein_id": "ACL81688.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542491",
+      "protein_id": "ACL81689.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542492",
+      "protein_id": "ACL81690.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542493",
+      "protein_id": "ACL81691.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542494",
+      "protein_id": "ACL81692.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542495",
+      "protein_id": "ACL81693.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542496",
+      "protein_id": "ACL81694.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542497",
+      "protein_id": "ACL81695.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542498",
+      "protein_id": "ACL81696.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542499",
+      "protein_id": "ACL81697.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542500",
+      "protein_id": "ACL81698.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542501",
+      "protein_id": "ACL81699.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542502",
+      "protein_id": "ACL81700.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542503",
+      "protein_id": "ACL81701.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542504",
+      "protein_id": "ACL81702.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542505",
+      "protein_id": "ACL81703.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542506",
+      "protein_id": "ACL81704.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542507",
+      "protein_id": "ACL81705.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542508",
+      "protein_id": "ACL81706.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542509",
+      "protein_id": "ACL81707.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542510",
+      "protein_id": "ACL81708.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542511",
+      "protein_id": "ACL81709.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542512",
+      "protein_id": "ACL81710.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542513",
+      "protein_id": "ACL81711.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542514",
+      "protein_id": "ACL81712.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542515",
+      "protein_id": "ACL81713.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542516",
+      "protein_id": "ACL81714.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542517",
+      "protein_id": "ACL81715.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542518",
+      "protein_id": "ACL81716.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542519",
+      "protein_id": "ACL81717.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542520",
+      "protein_id": "ACL81718.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542521",
+      "protein_id": "ACL81719.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542522",
+      "protein_id": "ACL81720.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542523",
+      "protein_id": "ACL81721.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542524",
+      "protein_id": "ACL81722.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542525",
+      "protein_id": "ACL81723.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542526",
+      "protein_id": "ACL81724.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542527",
+      "protein_id": "ACL81725.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542528",
+      "protein_id": "ACL81726.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542529",
+      "protein_id": "ACL81727.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542530",
+      "protein_id": "ACL81728.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542531",
+      "protein_id": "ACL81729.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542532",
+      "protein_id": "ACL81730.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542533",
+      "protein_id": "ACL81731.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542534",
+      "protein_id": "ACL81732.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542535",
+      "protein_id": "ACL81733.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542536",
+      "protein_id": "ACL81734.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542537",
+      "protein_id": "ACL81735.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542538",
+      "protein_id": "ACL81736.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542539",
+      "protein_id": "ACL81737.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542541",
+      "protein_id": "ACL81739.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542540",
+      "protein_id": "ACL81738.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542542",
+      "protein_id": "ACL81740.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542543",
+      "protein_id": "ACL81741.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542544",
+      "protein_id": "ACL81742.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542545",
+      "protein_id": "ACL81743.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542546",
+      "protein_id": "ACL81744.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542547",
+      "protein_id": "ACL81745.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542548",
+      "protein_id": "ACL81746.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542549",
+      "protein_id": "ACL81747.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542550",
+      "protein_id": "ACL81748.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542551",
+      "protein_id": "ACL81749.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542552",
+      "protein_id": "ACL81750.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542563",
+      "protein_id": "ACL81761.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "FJ542564",
+      "protein_id": "ACL81762.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "KU933268",
+      "protein_id": "AOY34827.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "KU933267",
+      "protein_id": "AOY34826.1",
+      "molecule_type": "Genomic_DNA"
+    }
+  ]
+}

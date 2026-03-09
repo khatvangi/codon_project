@@ -1,0 +1,639 @@
+{
+  "accession": "P00441",
+  "organism": "Homo sapiens",
+  "n_variants": 79,
+  "variants": [
+    {
+      "uniprot_position": 5,
+      "wt": "A",
+      "mut": "S",
+      "description": "in ALS1; dbSNP:rs121912444",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 5,
+      "wt": "A",
+      "mut": "T",
+      "description": "in ALS1; dbSNP:rs121912444",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 5,
+      "wt": "A",
+      "mut": "V",
+      "description": "in ALS1; severe form; reduces structural stability and enzyme activity; increases tendency to form fibrillar aggregates; dbSNP:rs121912442",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 7,
+      "wt": "C",
+      "mut": "F",
+      "description": "in ALS1; dbSNP:rs121912448",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 8,
+      "wt": "V",
+      "mut": "E",
+      "description": "in ALS1; dbSNP:rs1568807330",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 9,
+      "wt": "L",
+      "mut": "Q",
+      "description": "in ALS1; dbSNP:rs1568807342",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 9,
+      "wt": "L",
+      "mut": "V",
+      "description": "in ALS1; dbSNP:rs1568807333",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 13,
+      "wt": "G",
+      "mut": "R",
+      "description": "in ALS1; dbSNP:rs121912456",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 15,
+      "wt": "V",
+      "mut": "G",
+      "description": "in ALS1; dbSNP:rs1202989817",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 15,
+      "wt": "V",
+      "mut": "M",
+      "description": "in ALS1; dbSNP:rs1568807400",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 17,
+      "wt": "G",
+      "mut": "S",
+      "description": "in ALS1; sporadic young onset; dbSNP:rs121912453",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 21,
+      "wt": "F",
+      "mut": "C",
+      "description": "in ALS1; dbSNP:rs1555836169",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 22,
+      "wt": "E",
+      "mut": "G",
+      "description": "in ALS1; dbSNP:rs1568807435",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 22,
+      "wt": "E",
+      "mut": "K",
+      "description": "in ALS1; dbSNP:rs121912450",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 23,
+      "wt": "Q",
+      "mut": "L",
+      "description": "in ALS1; dbSNP:rs1169198442",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 38,
+      "wt": "G",
+      "mut": "R",
+      "description": "in ALS1; mild form; ubiquitinated by RNF19A. Ubiquitinated by MARCHF5; leading to the degradation of mitochondrial SOD1; dbSNP:rs121912431",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 39,
+      "wt": "L",
+      "mut": "R",
+      "description": "in ALS1; dbSNP:rs1555836520",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 39,
+      "wt": "L",
+      "mut": "V",
+      "description": "in ALS1; dbSNP:rs121912432",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 42,
+      "wt": "G",
+      "mut": "D",
+      "description": "in ALS1; dbSNP:rs121912434",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 42,
+      "wt": "G",
+      "mut": "S",
+      "description": "in ALS1; dbSNP:rs121912433",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 44,
+      "wt": "H",
+      "mut": "R",
+      "description": "in ALS1; reduces structural stability and enzyme activity; increases tendency to form fibrillar aggregates; dbSNP:rs121912435",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 46,
+      "wt": "F",
+      "mut": "C",
+      "description": "in ALS1; slow progression; dbSNP:rs121912457",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 47,
+      "wt": "H",
+      "mut": "R",
+      "description": "in ALS1; 80% of wild-type activity; ubiquitinated by RNF19A; dbSNP:rs121912443",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 49,
+      "wt": "H",
+      "mut": "Q",
+      "description": "in ALS1; dbSNP:rs1568809175",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 49,
+      "wt": "H",
+      "mut": "R",
+      "description": "in ALS1; dbSNP:rs1568809172",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 50,
+      "wt": "E",
+      "mut": "K",
+      "description": "in ALS1; dbSNP:rs1568809178",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 55,
+      "wt": "T",
+      "mut": "R",
+      "description": "in ALS1; reduces tendency to form fibrillar aggregates; dbSNP:rs986277034",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 66,
+      "wt": "N",
+      "mut": "S",
+      "description": "in ALS1; dbSNP:rs1568810275",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 68,
+      "wt": "L",
+      "mut": "P",
+      "description": "in ALS1; dbSNP:rs1568810289",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 68,
+      "wt": "L",
+      "mut": "R",
+      "description": "in ALS1; dbSNP:rs1568810289",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 73,
+      "wt": "G",
+      "mut": "S",
+      "description": "in ALS1; dbSNP:rs121912455",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 77,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in ALS1; dbSNP:rs1601157750",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 81,
+      "wt": "H",
+      "mut": "R",
+      "description": "in ALS1; sporadic form; interferes with zinc binding; dbSNP:rs121912458",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 85,
+      "wt": "L",
+      "mut": "F",
+      "description": "in ALS1; dbSNP:rs1315541036",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 85,
+      "wt": "L",
+      "mut": "V",
+      "description": "in ALS1; dbSNP:rs121912452",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 86,
+      "wt": "G",
+      "mut": "R",
+      "description": "in ALS1; ubiquitinated by RNF19A; interferes with zinc-binding; ubiquitinated by MARCHF5; leading to the degradation of mitochondrial SOD1; dbSNP:rs121912436",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 87,
+      "wt": "N",
+      "mut": "S",
+      "description": "in ALS1; dbSNP:rs11556620",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 88,
+      "wt": "V",
+      "mut": "A",
+      "description": "in ALS1; dbSNP:rs1339283341",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 90,
+      "wt": "A",
+      "mut": "T",
+      "description": "in ALS1; dbSNP:rs1568810660",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 90,
+      "wt": "A",
+      "mut": "V",
+      "description": "in ALS1; dbSNP:rs1280042397",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 91,
+      "wt": "D",
+      "mut": "A",
+      "description": "in ALS1; does not seem to be linked with a decrease in activity; dbSNP:rs80265967",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 91,
+      "wt": "D",
+      "mut": "V",
+      "description": "in ALS1; dbSNP:rs80265967",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 94,
+      "wt": "G",
+      "mut": "A",
+      "description": "in ALS1; increases tendency to form fibrillar aggregates; ubiquitinated by RNF19A; ubiquitinated by MARCHF5; dbSNP:rs121912438",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 94,
+      "wt": "G",
+      "mut": "C",
+      "description": "in ALS1; dbSNP:rs121912437",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 94,
+      "wt": "G",
+      "mut": "D",
+      "description": "in ALS1; dbSNP:rs121912438",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 94,
+      "wt": "G",
+      "mut": "R",
+      "description": "in ALS1; 30% of wild-type activity; dbSNP:rs121912437",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 94,
+      "wt": "G",
+      "mut": "V",
+      "description": "in ALS1; dbSNP:rs121912438",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 96,
+      "wt": "A",
+      "mut": "G",
+      "description": "in ALS1; dbSNP:rs1568810690",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 98,
+      "wt": "V",
+      "mut": "M",
+      "description": "in ALS1; increases tendency to form fibrillar aggregates; dbSNP:rs1555836806",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 101,
+      "wt": "E",
+      "mut": "G",
+      "description": "in ALS1; dbSNP:rs121912439",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 101,
+      "wt": "E",
+      "mut": "K",
+      "description": "in ALS1; dbSNP:rs76731700",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 102,
+      "wt": "D",
+      "mut": "G",
+      "description": "in ALS1; dbSNP:rs1568810721",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 102,
+      "wt": "D",
+      "mut": "N",
+      "description": "in ALS1; dbSNP:rs1568810715",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 105,
+      "wt": "I",
+      "mut": "F",
+      "description": "in ALS1; dbSNP:rs121912445",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 106,
+      "wt": "S",
+      "mut": "L",
+      "description": "in ALS1; dbSNP:rs1378590183",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 107,
+      "wt": "L",
+      "mut": "V",
+      "description": "in ALS1; dbSNP:rs121912440",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 109,
+      "wt": "G",
+      "mut": "V",
+      "description": "in ALS1; dbSNP:rs1359299834",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 112,
+      "wt": "C",
+      "mut": "Y",
+      "description": "in ALS1; dbSNP:rs1601158483",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 113,
+      "wt": "I",
+      "mut": "M",
+      "description": "in ALS1; dbSNP:rs1299542356",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 113,
+      "wt": "I",
+      "mut": "T",
+      "description": "in ALS1; dbSNP:rs74315452",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 114,
+      "wt": "I",
+      "mut": "T",
+      "description": "in ALS1; destabilizes dimeric protein structure and increases tendency to form fibrillar aggregates; dbSNP:rs121912441",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 115,
+      "wt": "G",
+      "mut": "A",
+      "description": "in ALS1; dbSNP:rs1568810789",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 116,
+      "wt": "R",
+      "mut": "G",
+      "description": "in ALS1; dbSNP:rs1301635320",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 119,
+      "wt": "V",
+      "mut": "L",
+      "description": "in ALS1; dbSNP:rs1235629842",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 125,
+      "wt": "D",
+      "mut": "G",
+      "description": "in ALS1; dbSNP:rs1568811366",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 125,
+      "wt": "D",
+      "mut": "V",
+      "description": "in ALS1; dbSNP:rs1568811366",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 126,
+      "wt": "D",
+      "mut": "H",
+      "description": "in ALS1; dbSNP:rs1568811372",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 127,
+      "wt": "L",
+      "mut": "S",
+      "description": "in ALS1; dbSNP:rs121912454",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 135,
+      "wt": "S",
+      "mut": "N",
+      "description": "in ALS1; reduced metal binding; increases tendency to form fibrillar aggregates; dbSNP:rs121912451",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 140,
+      "wt": "N",
+      "mut": "K",
+      "description": "in ALS1; dbSNP:rs1804449",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 145,
+      "wt": "L",
+      "mut": "F",
+      "description": "in ALS1; dbSNP:rs1482760341",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 145,
+      "wt": "L",
+      "mut": "S",
+      "description": "in ALS1; dbSNP:rs121912446",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 146,
+      "wt": "A",
+      "mut": "T",
+      "description": "in ALS1; dbSNP:rs121912447",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 147,
+      "wt": "C",
+      "mut": "R",
+      "description": "in ALS1; dbSNP:rs1568811515",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 148,
+      "wt": "G",
+      "mut": "R",
+      "description": "in ALS1; dbSNP:rs1568811520",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 149,
+      "wt": "V",
+      "mut": "G",
+      "description": "in ALS1; dbSNP:rs1476760624",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 149,
+      "wt": "V",
+      "mut": "I",
+      "description": "in ALS1; dbSNP:rs567511139",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 150,
+      "wt": "I",
+      "mut": "T",
+      "description": "in ALS1; dbSNP:rs1424014997",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 152,
+      "wt": "I",
+      "mut": "T",
+      "description": "in ALS1; dbSNP:rs121912449",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

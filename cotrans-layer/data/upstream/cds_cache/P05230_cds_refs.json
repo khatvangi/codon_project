@@ -1,0 +1,96 @@
+{
+  "accession": "P05230",
+  "organism": "Homo sapiens",
+  "embl_refs": [
+    {
+      "nucleotide_id": "M13361",
+      "protein_id": "AAA79245.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M30492",
+      "protein_id": "AAA52446.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M30490",
+      "protein_id": "AAA52446.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M30491",
+      "protein_id": "AAA52446.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M23087",
+      "protein_id": "AAA52638.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M23086",
+      "protein_id": "AAA52638.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "X51943",
+      "protein_id": "CAA36206.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X65778",
+      "protein_id": "CAA46661.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "S67291",
+      "protein_id": "AAB29057.2",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "S67292",
+      "protein_id": "AAB29058.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AY601819",
+      "protein_id": "AAS99352.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "AK312301",
+      "protein_id": "BAG35227.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "CH471062",
+      "protein_id": "EAW61881.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "CH471062",
+      "protein_id": "EAW61882.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "CH471062",
+      "protein_id": "EAW61885.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "BC032697",
+      "protein_id": "AAH32697.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M60515",
+      "protein_id": "AAA51672.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M60516",
+      "protein_id": "AAA51673.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "accession": "Q9UNS1",
+  "organism": "Homo sapiens",
+  "n_variants": 11,
+  "variants": [
+    {
+      "uniprot_position": 129,
+      "wt": "A",
+      "mut": "S",
+      "description": "in dbSNP:rs72478986",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 429,
+      "wt": "A",
+      "mut": "D",
+      "description": "in a breast cancer sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 455,
+      "wt": "I",
+      "mut": "L",
+      "description": "in dbSNP:rs774027",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 471,
+      "wt": "N",
+      "mut": "S",
+      "description": "in dbSNP:rs72478993",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 831,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in dbSNP:rs774047",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 870,
+      "wt": "M",
+      "mut": "V",
+      "description": "in dbSNP:rs61733875",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 922,
+      "wt": "R",
+      "mut": "H",
+      "description": "in dbSNP:rs72478999",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 924,
+      "wt": "R",
+      "mut": "W",
+      "description": "in dbSNP:rs72479000",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1008,
+      "wt": "Q",
+      "mut": "E",
+      "description": "in a breast cancer sample; somatic mutation; dbSNP:rs151188513",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 1017,
+      "wt": "I",
+      "mut": "T",
+      "description": "in dbSNP:rs61376834",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1018,
+      "wt": "P",
+      "mut": "L",
+      "description": "in dbSNP:rs2291739",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

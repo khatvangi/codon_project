@@ -1,0 +1,95 @@
+{
+  "accession": "Q01484",
+  "organism": "Homo sapiens",
+  "n_variants": 11,
+  "variants": [
+    {
+      "uniprot_position": 685,
+      "wt": "G",
+      "mut": "E",
+      "description": "in a breast cancer sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 687,
+      "wt": "N",
+      "mut": "S",
+      "description": "in dbSNP:rs29372",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 1267,
+      "wt": "G",
+      "mut": "R",
+      "description": "in a colorectal cancer sample; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 1458,
+      "wt": "E",
+      "mut": "G",
+      "description": "in LQT4; uncertain significance; abnormal calcium ion homeostasis, when tested in a heterologous system; dbSNP:rs72544141",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 1555,
+      "wt": "V",
+      "mut": "D",
+      "description": "",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 2369,
+      "wt": "V",
+      "mut": "A",
+      "description": "in dbSNP:rs28377576",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 3653,
+      "wt": "T",
+      "mut": "K",
+      "description": "in a colorectal cancer sample; somatic mutation; dbSNP:rs2154053205",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 3740,
+      "wt": "L",
+      "mut": "I",
+      "description": "in LQT4; loss of function; dbSNP:rs35530544",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 3744,
+      "wt": "T",
+      "mut": "N",
+      "description": "in LQT4; loss of function; dbSNP:rs121912705",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 3906,
+      "wt": "R",
+      "mut": "W",
+      "description": "in LQT4; loss of function; dbSNP:rs121912706",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 3931,
+      "wt": "E",
+      "mut": "K",
+      "description": "in LQT4; loss of function; dbSNP:rs45454496",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

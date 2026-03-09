@@ -1,0 +1,15 @@
+{
+  "accession": "P05230",
+  "organism": "Homo sapiens",
+  "n_variants": 1,
+  "variants": [
+    {
+      "uniprot_position": 21,
+      "wt": "G",
+      "mut": "E",
+      "description": "in dbSNP:rs17223632",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

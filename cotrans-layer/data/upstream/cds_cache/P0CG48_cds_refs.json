@@ -1,0 +1,41 @@
+{
+  "accession": "P0CG48",
+  "organism": "Homo sapiens",
+  "embl_refs": [
+    {
+      "nucleotide_id": "M26880",
+      "protein_id": "AAA36789.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AB009010",
+      "protein_id": "BAA23632.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AB089613",
+      "protein_id": "BAC56951.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "BC039193",
+      "protein_id": "AAH39193.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "D63791",
+      "protein_id": "BAA09860.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "AB003730",
+      "protein_id": "BAA23486.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M17597",
+      "protein_id": "AAA36787.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

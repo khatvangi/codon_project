@@ -1,0 +1,287 @@
+{
+  "accession": "P01009",
+  "organism": "Homo sapiens",
+  "n_variants": 35,
+  "variants": [
+    {
+      "uniprot_position": 6,
+      "wt": "S",
+      "mut": "L",
+      "description": "in A1ATD; uncertain significance; Z-Wrexham",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 26,
+      "wt": "D",
+      "mut": "A",
+      "description": "in V-Munich; dbSNP:rs199422212",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 37,
+      "wt": "T",
+      "mut": "A",
+      "description": "in dbSNP:rs11558262",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 58,
+      "wt": "A",
+      "mut": "T",
+      "description": "in M5-Karlsruhe; dbSNP:rs149319176",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 63,
+      "wt": "R",
+      "mut": "C",
+      "description": "in A1ATD; I; dbSNP:rs28931570",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 65,
+      "wt": "L",
+      "mut": "P",
+      "description": "in A1ATD; M-Procida; dbSNP:rs28931569",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 69,
+      "wt": "S",
+      "mut": "F",
+      "description": "in M6-Bonn; dbSNP:rs199687431",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 77,
+      "wt": "S",
+      "mut": "F",
+      "description": "in A1ATD; S-Iiyama; dbSNP:rs55819880",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 84,
+      "wt": "A",
+      "mut": "T",
+      "description": "in M6-Passau; dbSNP:rs111850950",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 91,
+      "wt": "G",
+      "mut": "E",
+      "description": "in A1ATD; M-Mineral springs; causes reduced alpha-1-antitrypsin secretion; dbSNP:rs28931568",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 92,
+      "wt": "T",
+      "mut": "I",
+      "description": "in A1ATD; QO-Lisbon; very low alpha-1-antitrypsin serum levels; dbSNP:rs1490133295",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 109,
+      "wt": "T",
+      "mut": "M",
+      "description": "in Z-Bristol; deficient AA; disrupts the N-glycosylation site N-107; dbSNP:rs199422213",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 112,
+      "wt": "P",
+      "mut": "T",
+      "description": "in M5-Berlin; dbSNP:rs886044322",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 116,
+      "wt": "I",
+      "mut": "N",
+      "description": "in A1ATD; QO-Ludwigshafen; dbSNP:rs28931572",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 125,
+      "wt": "R",
+      "mut": "H",
+      "description": "in M2; associated with D-400; dbSNP:rs709932",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 139,
+      "wt": "G",
+      "mut": "S",
+      "description": "in A1ATD; QO-Newport; dbSNP:rs11558261",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 172,
+      "wt": "G",
+      "mut": "R",
+      "description": "in V and M-Nichinan; dbSNP:rs112030253",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 172,
+      "wt": "G",
+      "mut": "W",
+      "description": "in M2-Obernburg; dbSNP:rs112030253",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 180,
+      "wt": "Q",
+      "mut": "E",
+      "description": "in L-Frankfurt; dbSNP:rs864622051",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 228,
+      "wt": "E",
+      "mut": "K",
+      "description": "in X; dbSNP:rs199422208",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 237,
+      "wt": "V",
+      "mut": "A",
+      "description": "in M1A and Z; associated with K-366 in Z; dbSNP:rs6647",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 247,
+      "wt": "R",
+      "mut": "C",
+      "description": "in F; dbSNP:rs28929470",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 280,
+      "wt": "D",
+      "mut": "V",
+      "description": "in A1ATD; P-Duarte/P-Cardiff/P-Lowell; associated with H-415 in Y-Barcelona; dbSNP:rs121912714",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 288,
+      "wt": "E",
+      "mut": "V",
+      "description": "in S and T; dbSNP:rs17580",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 354,
+      "wt": "S",
+      "mut": "F",
+      "description": "in S-Munich; dbSNP:rs201788603",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 360,
+      "wt": "A",
+      "mut": "T",
+      "description": "in W-Bethesda; dbSNP:rs1802959",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 365,
+      "wt": "D",
+      "mut": "N",
+      "description": "in P-St.Albans/P-Donauwoerth; dbSNP:rs143370956",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 366,
+      "wt": "E",
+      "mut": "K",
+      "description": "in A1ATD; Z/Z-Augsburg/Z-Tun; associated with A-237 in Z; changed protein structure; results in protein aggregation into bead-like polymers; dbSNP:rs28929474",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 382,
+      "wt": "M",
+      "mut": "R",
+      "description": "in Pittsburgh; has antithrombin activity; inhibits factor VIIa activity; causes fatal bleeding diathesis; dbSNP:rs121912713",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 386,
+      "wt": "P",
+      "mut": "H",
+      "description": "in Sao Tome; dbSNP:rs569384943",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 386,
+      "wt": "P",
+      "mut": "T",
+      "description": "in L-Offenbach; dbSNP:rs12233",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 387,
+      "wt": "E",
+      "mut": "K",
+      "description": "in Christchurch; dbSNP:rs121912712",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 393,
+      "wt": "P",
+      "mut": "L",
+      "description": "in A1ATD; M-Heerlen; dbSNP:rs199422209",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 400,
+      "wt": "E",
+      "mut": "D",
+      "description": "in M2 and M3; associated with H-125 in M2; dbSNP:rs1303",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 415,
+      "wt": "P",
+      "mut": "H",
+      "description": "in A1ATD; associated with V-280 in Y-Barcelona",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

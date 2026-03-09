@@ -1,0 +1,743 @@
+{
+  "accession": "P04439",
+  "organism": "Homo sapiens",
+  "n_variants": 92,
+  "variants": [
+    {
+      "uniprot_position": 3,
+      "wt": "V",
+      "mut": "I",
+      "description": "in allele A*34:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 5,
+      "wt": "A",
+      "mut": "P",
+      "description": "in allele A*80:01; does not alter the affinity of VL9 peptide for HLA-E or HLA-E expression at the plasma membrane; facilitates KLRD1-KLRC1 and KLRD1-KLRC2 receptor engagement and signaling",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 10,
+      "wt": "L",
+      "mut": "V",
+      "description": "in allele A*02:01, allele A*02:05, allele A*23:01, allele A*24:02, allele A*25:01, allele A*26:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*68:01 and allele A*69:01; does not alter the affinity of VL9 peptide for HLA-E or HLA-E expression at the plasma membrane; decreases KLRD1-KLRC1 and KLRD1-KLRC2 receptor engagement and signaling",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 14,
+      "wt": "S",
+      "mut": "L",
+      "description": "in allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01 and allele A*74:01; impairs VL9 peptide processing and HLA-E expression at the plasma membrane",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 23,
+      "wt": "W",
+      "mut": "R",
+      "description": "in allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33,
+      "wt": "F",
+      "mut": "S",
+      "description": "in allele A*23:01, allele A*24:02 and allele A*30:01; dbSNP:rs2075684",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33,
+      "wt": "F",
+      "mut": "T",
+      "description": "in allele A*29:02, allele A*31:01 and allele A*33:01; requires 2 nucleotide substitutions",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 33,
+      "wt": "F",
+      "mut": "Y",
+      "description": "in allele A*02:05, allele A*11:01, allele A*25:01, allele A*26:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*68:01 and allele A*69:01; dbSNP:rs2075684",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 41,
+      "wt": "R",
+      "mut": "S",
+      "description": "in allele A*30:01; dbSNP:rs1059423",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 55,
+      "wt": "T",
+      "mut": "S",
+      "description": "in allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 59,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 67,
+      "wt": "Q",
+      "mut": "R",
+      "description": "in allele A*02:05; dbSNP:rs41559117",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 68,
+      "wt": "R",
+      "mut": "K",
+      "description": "in alleles A*01:01 and allele A*36:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 80,
+      "wt": "G",
+      "mut": "E",
+      "description": "in allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 80,
+      "wt": "G",
+      "mut": "R",
+      "description": "in allele A*30:01 and allele A*31:01; dbSNP:rs1059449",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 86,
+      "wt": "Q",
+      "mut": "E",
+      "description": "in allele A*23:01, allele 24:02 and allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 86,
+      "wt": "Q",
+      "mut": "G",
+      "description": "in allele A*02:01 and allele A*02:05; requires 2 nucleotide substitutions",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 86,
+      "wt": "Q",
+      "mut": "L",
+      "description": "in alleles A*29:02 and allele A*43:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 86,
+      "wt": "Q",
+      "mut": "R",
+      "description": "in allele A*25:01, allele A*26:01, allele A*33:01, allele A*34:01, allele A*66:01, allele A*68:01 and allele A*69:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 87,
+      "wt": "E",
+      "mut": "N",
+      "description": "in alleles A*25:01, allele A*26:01, allele A*33:01, allele A*34:01, allele A*66:01, allele A*68:01 and allele A*69:01; requires 2 nucleotide substitutions",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 87,
+      "wt": "E",
+      "mut": "Q",
+      "description": "in allele A*29:02 and allele A*43:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 89,
+      "wt": "R",
+      "mut": "G",
+      "description": "in allele A*23:01 and allele 24:02; dbSNP:rs199474430",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 90,
+      "wt": "N",
+      "mut": "K",
+      "description": "in allele A*02:01, allele A*02:05, allele A*23:01, allele 24:02 and allele A*34:01; dbSNP:rs199474436",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 91,
+      "wt": "V",
+      "mut": "M",
+      "description": "in allele A*01:01 and allele A*36:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 94,
+      "wt": "Q",
+      "mut": "H",
+      "description": "in allele A*01:01, allele A*02:01, allele A*02:05, allele A*23:01, allele 24:02, allele A*25:01, allele A*26:01, allele A*31:01, allele A*32:01, allele A*33:01, allele A*36:01, allele A*43:01, allele A*74:01 and allele A*80:01; dbSNP:rs78306866",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 97,
+      "wt": "T",
+      "mut": "I",
+      "description": "in allele A*31:01 and allele A*33:01; dbSNP:rs199474457",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 98,
+      "wt": "D",
+      "mut": "H",
+      "description": "in allele A*02:01 and allele A*02:05",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 98,
+      "wt": "D",
+      "mut": "N",
+      "description": "in allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 100,
+      "wt": "V",
+      "mut": "A",
+      "description": "in allele A*01:01, allele A*26:01, allele A*29:02, allele A*36:01, allele A*43:01 and allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 100,
+      "wt": "V",
+      "mut": "E",
+      "description": "in allele A*23:01, allele A*24:02, allele A*25:01 and allele A*32:01; dbSNP:rs1071742",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 101,
+      "wt": "D",
+      "mut": "N",
+      "description": "allele A*01:01, allele A*23:01, allele A*24:02, allele A*26:01, allele A*29:02, allele A*36:01, allele A*43:01 and allele A*80:01; dbSNP:rs1136688",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 101,
+      "wt": "D",
+      "mut": "S",
+      "description": "in allele A*25:01 and allele A*32:01; requires 2 nucleotide substitutions",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 114,
+      "wt": "A",
+      "mut": "D",
+      "description": "in allele A*01:01, allele A*11:01, allele A*25:01, allele A*26:01, allele A*34:01, allele A*36:01, allele A*43:01, allele A*66:01 and allele A*80:01; dbSNP:rs1136692",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 119,
+      "wt": "I",
+      "mut": "L",
+      "description": "in allele A*02:05, allele A*23:01 and allele 24:02; dbSNP:rs1071743",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 119,
+      "wt": "I",
+      "mut": "V",
+      "description": "in allele A*02:01 and allele A*69:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 121,
+      "wt": "I",
+      "mut": "M",
+      "description": "in allele A*23:01, allele 24:02, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*68:01 and allele A*74:01; dbSNP:rs1136695",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 121,
+      "wt": "I",
+      "mut": "R",
+      "description": "in allele A*02:01, allele A*02:05, allele A*25:01, allele A*26:01, allele A*34:01, allele A*43:01, allele A*66:01 and allele A*69:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 123,
+      "wt": "Y",
+      "mut": "F",
+      "description": "in allele A*23:01, allele 24:02; dbSNP:rs1136697",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 129,
+      "wt": "S",
+      "mut": "P",
+      "description": "in allele A*01:01, allele A*11:01, allele A*25:01;, allele A*26:01, allele A*32:01, allele A*34:01, allele A*36:01, allele A*43:01, allele A*66:01 and allele A*74:01; dbSNP:rs1136700",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 131,
+      "wt": "G",
+      "mut": "W",
+      "description": "in allele A*02:01, allele A*02:05 and allele A*69:01; dbSNP:rs1136702",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 133,
+      "wt": "F",
+      "mut": "L",
+      "description": "in allele A*32:01 and allele A*74:01; dbSNP:rs1059488",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 138,
+      "wt": "R",
+      "mut": "E",
+      "description": "in allele A*30:01; requires 2 nucleotide substitutions",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 138,
+      "wt": "R",
+      "mut": "H",
+      "description": "in allele A*02:01, allele A*02:05, allele A*23:01, allele A*24:02, allele A*69:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 138,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in allele A*25:01, allele A*26:01, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 140,
+      "wt": "D",
+      "mut": "H",
+      "description": "in allele A*30:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 140,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in allele A*02:01, allele A*02:05, allele A*23:01, allele A*24:02 and allele A*69:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 151,
+      "wt": "N",
+      "mut": "K",
+      "description": "in allele A*02:01, allele A*02:05, allele A*23:01, allele A*24:02, allele A*68:01 and allele A*69:01; dbSNP:rs1059509",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 166,
+      "wt": "I",
+      "mut": "T",
+      "description": "in allele A*02:01, allele A*02:05, allele A*68:01 and allele A*69:01; dbSNP:rs1059516",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 168,
+      "wt": "K",
+      "mut": "Q",
+      "description": "in allele A*23:01, allele A*25:01, allele A*26:01, allele A*29:02, allele A*30:01, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01 and allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 169,
+      "wt": "R",
+      "mut": "H",
+      "description": "in allele A*02:01, allele A*02:05, allele A*68:01 and allele A*69:01; dbSNP:rs1059520",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 173,
+      "wt": "A",
+      "mut": "T",
+      "description": "in allele A*25:01, allele A*26:01, allele A*34:01, allele A*43:01 and allele A*66:01; dbSNP:rs1059526",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 174,
+      "wt": "A",
+      "mut": "V",
+      "description": "in allele A*01:01 and allele A*36:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 175,
+      "wt": "H",
+      "mut": "R",
+      "description": "in allele A*23:01, allele A*29:02, allele A*30:01, allele A*31:01, allele A*32:01, allele A*33:01, allele A*74:01 and allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 176,
+      "wt": "E",
+      "mut": "A",
+      "description": "in allele A*01:01, allele A*11:01 and allele A*36:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 176,
+      "wt": "E",
+      "mut": "R",
+      "description": "in allele A*80:01; requires 2 nucleotide substitutions",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 176,
+      "wt": "E",
+      "mut": "V",
+      "description": "in allele A*02:01, allele A*02:05, allele A*23:01, allele A*24:02, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*68:01, allele A*69:01 and allele A*74:01; results in inefficient T cell recognition of epitopes derived from influenza A virus; dbSNP:rs9256983",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 176,
+      "wt": "E",
+      "mut": "W",
+      "description": "in allele A*30:01; requires 2 nucleotide substitutions",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 180,
+      "wt": "L",
+      "mut": "Q",
+      "description": "in allele A*11:01 and allele A*24:02",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 180,
+      "wt": "L",
+      "mut": "R",
+      "description": "in allele A*01:01 and allele A*36:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 180,
+      "wt": "L",
+      "mut": "W",
+      "description": "in allele A*02:05, allele A*25:01, allele A*26:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*68:01; dbSNP:rs9260156",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 182,
+      "wt": "A",
+      "mut": "V",
+      "description": "in allele A*01:01 and allele A*36:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 185,
+      "wt": "D",
+      "mut": "E",
+      "description": "in allele A*01:01, allele A*02:01, allele A*02:05, allele A*11:01, allele A*23:01, allele A*24:02, allele A*25:01, allele A*26:01, allele A*29:02, allele A*30:01, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*36:01, allele A*43:01, allele A*66:01, allele A*68:01, allele A*69:01, allele A*74:01 and allele A*80:01; dbSNP:rs1059542",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 187,
+      "wt": "T",
+      "mut": "E",
+      "description": "in allele A*80:01; requires 2 nucleotide substitutions",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 187,
+      "wt": "T",
+      "mut": "R",
+      "description": "in allele A*01:01, allele A*11:01, allele A*25:01, allele A*26:01, allele A*43:01 and allele A*66:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 190,
+      "wt": "E",
+      "mut": "D",
+      "description": "in allele A*01:01, allele A*23:01, allele A*24:02 and allele A*80:01; dbSNP:rs879577815",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 191,
+      "wt": "W",
+      "mut": "G",
+      "description": "in allele A*01:01, allele A*23:01, allele A*24:02 and allele A*80:01; dbSNP:rs3098019",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 195,
+      "wt": "Y",
+      "mut": "H",
+      "description": "in allele A*33:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 208,
+      "wt": "P",
+      "mut": "A",
+      "description": "in allele A*02:01, allele A*02:05, allele A*25:01, allele A*26:01, allele A*29:02, allele A*32:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*68:01, allele A*69:01 and allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 210,
+      "wt": "K",
+      "mut": "R",
+      "description": "in allele A*33:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 217,
+      "wt": "P",
+      "mut": "A",
+      "description": "in allele A*02:01, allele A*02:05, allele A*25:01, allele A*26:01, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*68:01, allele A*69:01, allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 218,
+      "wt": "I",
+      "mut": "V",
+      "description": "in allele A*02:01, allele A*02:05, allele A*25:01, allele A*26:01, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*68:01, allele A*69:01 and allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 231,
+      "wt": "G",
+      "mut": "S",
+      "description": "in allele A*02:01, allele A*02:05, allele A*25:01, allele A*26:01, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*68:01, allele A*69:01, allele A*74:01 and allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 269,
+      "wt": "A",
+      "mut": "V",
+      "description": "in allele A*68:01; impairs binding to CD8A and reduces recognition by antigen-specific CD8-positive T cells",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 270,
+      "wt": "A",
+      "mut": "S",
+      "description": "in allele A*25:01, allele A*26:01, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01 and allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 277,
+      "wt": "E",
+      "mut": "K",
+      "description": "in allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 277,
+      "wt": "E",
+      "mut": "Q",
+      "description": "in allele A*02:01, allele A*02:05, allele A*25:01, allele A*26:01, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*68:01, allele A*69:01 and allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 279,
+      "wt": "Q",
+      "mut": "K",
+      "description": "in allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 292,
+      "wt": "K",
+      "mut": "E",
+      "description": "in allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 300,
+      "wt": "L",
+      "mut": "P",
+      "description": "in allele A*02:01, allele A*02:05, allele A*23:01, allele A*24:02, allele A*25:01, allele A*26:01, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*68:01, allele A*69:01, allele A*74:01 and allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 306,
+      "wt": "I",
+      "mut": "V",
+      "description": "in allele A*23:01 and allele A*24:02",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 307,
+      "wt": "P",
+      "mut": "H",
+      "description": "in allele A*23:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 312,
+      "wt": "I",
+      "mut": "L",
+      "description": "in allele A*34:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 318,
+      "wt": "L",
+      "mut": "F",
+      "description": "in allele A*02:01, allele A*02:05, allele A*25:01, allele A*26:01, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*68:01, allele A*69:01 and allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 321,
+      "wt": "V",
+      "mut": "M",
+      "description": "in allele A*32:01 and allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 322,
+      "wt": "I",
+      "mut": "F",
+      "description": "in allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01 and allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 323,
+      "wt": "T",
+      "mut": "A",
+      "description": "in allele A*25:01, allele A*26:01, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*74:01 and allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 331,
+      "wt": "M",
+      "mut": "R",
+      "description": "in allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01 and allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 334,
+      "wt": "R",
+      "mut": "K",
+      "description": "allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 335,
+      "wt": "K",
+      "mut": "N",
+      "description": "in allele A*23:01 and allele A*24:02",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 338,
+      "wt": "D",
+      "mut": "V",
+      "description": "allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 345,
+      "wt": "T",
+      "mut": "S",
+      "description": "in allele A*02:01, allele A*02:05, allele A*23:01, allele A*24:02, allele A*25:01, allele A*26:01, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01, allele A*68:01, allele A*69:01, allele A*74:01 and allele A*80:01",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 358,
+      "wt": "V",
+      "mut": "M",
+      "description": "in allele A*25:01, allele A*26:01, allele A*29:02, allele A*31:01, allele A*32:01, allele A*33:01, allele A*34:01, allele A*43:01, allele A*66:01 and allele A*74:01",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

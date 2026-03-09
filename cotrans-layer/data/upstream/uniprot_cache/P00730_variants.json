@@ -1,0 +1,31 @@
+{
+  "accession": "P00730",
+  "organism": "Bos taurus",
+  "n_variants": 3,
+  "variants": [
+    {
+      "uniprot_position": 289,
+      "wt": "I",
+      "mut": "V",
+      "description": "in allelic variant",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 338,
+      "wt": "E",
+      "mut": "A",
+      "description": "in allelic variant",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 415,
+      "wt": "L",
+      "mut": "V",
+      "description": "in allelic variant",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

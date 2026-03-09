@@ -1,0 +1,15 @@
+{
+  "accession": "O95155",
+  "organism": "Homo sapiens",
+  "n_variants": 1,
+  "variants": [
+    {
+      "uniprot_position": 605,
+      "wt": "V",
+      "mut": "I",
+      "description": "in dbSNP:rs17034499",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

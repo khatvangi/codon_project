@@ -1,0 +1,23 @@
+{
+  "accession": "O14862",
+  "organism": "Homo sapiens",
+  "n_variants": 2,
+  "variants": [
+    {
+      "uniprot_position": 32,
+      "wt": "E",
+      "mut": "K",
+      "description": "in dbSNP:rs2276405",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 304,
+      "wt": "C",
+      "mut": "Y",
+      "description": "in dbSNP:rs778047649",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

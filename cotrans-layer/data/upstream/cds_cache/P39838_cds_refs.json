@@ -1,0 +1,31 @@
+{
+  "accession": "P39838",
+  "organism": "Escherichia coli (strain K12)",
+  "embl_refs": [
+    {
+      "nucleotide_id": "U00096",
+      "protein_id": "AAC75276.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "AP009048",
+      "protein_id": "BAA15999.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "U38659",
+      "protein_id": "AAA81025.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "U38659",
+      "protein_id": "AAA81026.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "U38659",
+      "protein_id": "AAA81027.1",
+      "molecule_type": "Genomic_DNA"
+    }
+  ]
+}

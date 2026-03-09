@@ -1,0 +1,47 @@
+{
+  "accession": "P02754",
+  "organism": "Bos taurus",
+  "n_variants": 5,
+  "variants": [
+    {
+      "uniprot_position": 61,
+      "wt": "E",
+      "mut": "Q",
+      "description": "in variant D",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 72,
+      "wt": "I",
+      "mut": "L",
+      "description": "in variant W",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 75,
+      "wt": "Q",
+      "mut": "H",
+      "description": "in variant C; found only in the Jersey breed",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 80,
+      "wt": "G",
+      "mut": "D",
+      "description": "in variant A",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 134,
+      "wt": "A",
+      "mut": "V",
+      "description": "in variant A",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

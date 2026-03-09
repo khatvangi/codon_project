@@ -1,0 +1,26 @@
+{
+  "accession": "P46014",
+  "organism": "Arabidopsis thaliana",
+  "embl_refs": [
+    {
+      "nucleotide_id": "U09505",
+      "protein_id": "AAB38148.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "CP002688",
+      "protein_id": "AED92679.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "AY045853",
+      "protein_id": "AAK76527.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "AY117152",
+      "protein_id": "AAM51227.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

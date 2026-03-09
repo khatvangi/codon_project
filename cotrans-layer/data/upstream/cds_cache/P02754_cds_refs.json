@@ -1,0 +1,46 @@
+{
+  "accession": "P02754",
+  "organism": "Bos taurus",
+  "embl_refs": [
+    {
+      "nucleotide_id": "X14712",
+      "protein_id": "CAA32835.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "Z48305",
+      "protein_id": "CAA88303.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "DQ489319",
+      "protein_id": "ABF48380.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "BC108213",
+      "protein_id": "AAI08214.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "X52581",
+      "protein_id": "CAA36812.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M19088",
+      "protein_id": "AAA30411.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M27732",
+      "protein_id": "AAA30412.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "K01086",
+      "protein_id": "AAA30413.1",
+      "molecule_type": "mRNA"
+    }
+  ]
+}

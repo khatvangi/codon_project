@@ -1,0 +1,16 @@
+{
+  "accession": "P00940",
+  "organism": "Gallus gallus",
+  "embl_refs": [
+    {
+      "nucleotide_id": "M11314",
+      "protein_id": "AAA49094.1",
+      "molecule_type": "mRNA"
+    },
+    {
+      "nucleotide_id": "M11941",
+      "protein_id": "AAA49095.1",
+      "molecule_type": "Genomic_DNA"
+    }
+  ]
+}

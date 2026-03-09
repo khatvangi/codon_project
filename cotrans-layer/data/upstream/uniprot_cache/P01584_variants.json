@@ -1,0 +1,15 @@
+{
+  "accession": "P01584",
+  "organism": "Homo sapiens",
+  "n_variants": 1,
+  "variants": [
+    {
+      "uniprot_position": 141,
+      "wt": "E",
+      "mut": "N",
+      "description": "requires 2 nucleotide substitutions; dbSNP:rs144640380",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "accession": "P0AEX9",
+  "organism": "Escherichia coli (strain K12)",
+  "embl_refs": [
+    {
+      "nucleotide_id": "V00303",
+      "protein_id": "CAA23581.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "U00006",
+      "protein_id": "AAC43128.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "U00096",
+      "protein_id": "AAC77004.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "AP009048",
+      "protein_id": "BAE78036.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "J01648",
+      "protein_id": "AAB59056.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M16181",
+      "protein_id": "AAA24102.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M12635",
+      "protein_id": "AAA24123.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M12647",
+      "protein_id": "AAA24135.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M12650",
+      "protein_id": "AAA24138.1",
+      "molecule_type": "Genomic_DNA"
+    },
+    {
+      "nucleotide_id": "M12653",
+      "protein_id": "AAA24115.1",
+      "molecule_type": "Genomic_DNA"
+    }
+  ]
+}

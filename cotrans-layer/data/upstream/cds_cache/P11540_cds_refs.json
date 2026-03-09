@@ -1,0 +1,11 @@
+{
+  "accession": "P11540",
+  "organism": "Bacillus amyloliquefaciens",
+  "embl_refs": [
+    {
+      "nucleotide_id": "X15545",
+      "protein_id": "CAA33551.1",
+      "molecule_type": "Genomic_DNA"
+    }
+  ]
+}

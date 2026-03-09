@@ -1,0 +1,23 @@
+{
+  "accession": "Q92979",
+  "organism": "Homo sapiens",
+  "n_variants": 2,
+  "variants": [
+    {
+      "uniprot_position": 34,
+      "wt": "A",
+      "mut": "G",
+      "description": "in dbSNP:rs11064480",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 86,
+      "wt": "D",
+      "mut": "G",
+      "description": "in BWCNS; studies in fibroblasts show a dramatically reduced level of EMG1 protein in a BWCNS-affected patient compared to normal fibroblasts although patient fibroblasts do not have complete EMG1 deficiency; the mutation increases dimerization of EMG1 subunits suggesting that aggregation of EMG1 leads to reduced levels of the protein; dbSNP:rs74435397",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}

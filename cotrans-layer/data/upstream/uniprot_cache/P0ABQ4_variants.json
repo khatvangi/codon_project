@@ -1,0 +1,39 @@
+{
+  "accession": "P0ABQ4",
+  "organism": "Escherichia coli (strain K12)",
+  "n_variants": 4,
+  "variants": [
+    {
+      "uniprot_position": 28,
+      "wt": "L",
+      "mut": "R",
+      "description": "in strain: B[RT500] isozyme 2",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 30,
+      "wt": "W",
+      "mut": "G",
+      "description": "in strain: 1810",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 154,
+      "wt": "E",
+      "mut": "K",
+      "description": "in strain: B[MB1428]",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 154,
+      "wt": "E",
+      "mut": "Q",
+      "description": "in strain: 1810",
+      "ft_id": "",
+      "significance": "VUS"
+    }
+  ]
+}

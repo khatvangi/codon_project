@@ -1,0 +1,1727 @@
+{
+  "accession": "P10275",
+  "organism": "Homo sapiens",
+  "n_variants": 215,
+  "variants": [
+    {
+      "uniprot_position": 2,
+      "wt": "E",
+      "mut": "K",
+      "description": "in PAIS; dbSNP:rs104894742",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 54,
+      "wt": "L",
+      "mut": "S",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 57,
+      "wt": "L",
+      "mut": "Q",
+      "description": "in prostate cancer; dbSNP:rs78686797",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 64,
+      "wt": "Q",
+      "mut": "R",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 114,
+      "wt": "Q",
+      "mut": "H",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 182,
+      "wt": "K",
+      "mut": "R",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 196,
+      "wt": "Q",
+      "mut": "R",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 207,
+      "wt": "S",
+      "mut": "R",
+      "description": "in dbSNP:rs374549047",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 216,
+      "wt": "G",
+      "mut": "R",
+      "description": "20% lower transactivation capacity; dbSNP:rs199554641",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 257,
+      "wt": "L",
+      "mut": "P",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 268,
+      "wt": "M",
+      "mut": "T",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 271,
+      "wt": "P",
+      "mut": "S",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 342,
+      "wt": "P",
+      "mut": "L",
+      "description": "in prostate cancer; dbSNP:rs138454018",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 392,
+      "wt": "P",
+      "mut": "R",
+      "description": "in AIS; dbSNP:rs773996740",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 392,
+      "wt": "P",
+      "mut": "S",
+      "description": "in AIS; dbSNP:rs201934623",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 445,
+      "wt": "Q",
+      "mut": "R",
+      "description": "in AIS; uncertain significance; dbSNP:rs1355285524",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 492,
+      "wt": "G",
+      "mut": "S",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 529,
+      "wt": "D",
+      "mut": "G",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 548,
+      "wt": "L",
+      "mut": "F",
+      "description": "in PAIS; dbSNP:rs139524801",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 549,
+      "wt": "P",
+      "mut": "S",
+      "description": "in AIS; dbSNP:rs137852588",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 560,
+      "wt": "C",
+      "mut": "Y",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 569,
+      "wt": "G",
+      "mut": "V",
+      "description": "in a patient with isolated hypospadias",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 569,
+      "wt": "G",
+      "mut": "W",
+      "description": "in PAIS; dbSNP:rs1555982864",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 572,
+      "wt": "Y",
+      "mut": "C",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 574,
+      "wt": "A",
+      "mut": "D",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 575,
+      "wt": "L",
+      "mut": "P",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 576,
+      "wt": "T",
+      "mut": "A",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 577,
+      "wt": "C",
+      "mut": "F",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 577,
+      "wt": "C",
+      "mut": "R",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 580,
+      "wt": "C",
+      "mut": "F",
+      "description": "in AIS; reduced transcription and DNA binding; dbSNP:rs137852586",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 580,
+      "wt": "C",
+      "mut": "Y",
+      "description": "in AIS; dbSNP:rs137852586",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 581,
+      "wt": "K",
+      "mut": "R",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 582,
+      "wt": "V",
+      "mut": "F",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 583,
+      "wt": "F",
+      "mut": "S",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 583,
+      "wt": "F",
+      "mut": "Y",
+      "description": "in PAIS; dbSNP:rs137852587",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 586,
+      "wt": "R",
+      "mut": "K",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 587,
+      "wt": "A",
+      "mut": "V",
+      "description": "in prostate cancer; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 588,
+      "wt": "A",
+      "mut": "S",
+      "description": "in prostate cancer; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 597,
+      "wt": "A",
+      "mut": "T",
+      "description": "in AIS; abolishes dimerization; dbSNP:rs137852569",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 598,
+      "wt": "S",
+      "mut": "G",
+      "description": "in PAIS; normal androgen binding; does not activate transcription; impairs DNA binding; dbSNP:rs142280455",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 598,
+      "wt": "S",
+      "mut": "T",
+      "description": "in a patient with severe hypospadias",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 602,
+      "wt": "C",
+      "mut": "F",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 605,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 608,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in PAIS and breast cancer; dbSNP:rs137852573",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 609,
+      "wt": "R",
+      "mut": "K",
+      "description": "in PAIS and breast cancer; defective nuclear localization; dbSNP:rs137852576",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 611,
+      "wt": "N",
+      "mut": "T",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 612,
+      "wt": "C",
+      "mut": "Y",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 616,
+      "wt": "R",
+      "mut": "H",
+      "description": "in AIS and PAIS; dbSNP:rs754201976",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 616,
+      "wt": "R",
+      "mut": "P",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 617,
+      "wt": "L",
+      "mut": "P",
+      "description": "in AIS; dbSNP:rs1555990488",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 617,
+      "wt": "L",
+      "mut": "R",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 618,
+      "wt": "R",
+      "mut": "P",
+      "description": "in AIS and PAIS; loss of DNA-binding activity",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 620,
+      "wt": "C",
+      "mut": "Y",
+      "description": "in prostate cancer; loss of DNA binding; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 630,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in prostate cancer; dbSNP:rs868669253",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 631,
+      "wt": "K",
+      "mut": "T",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 646,
+      "wt": "A",
+      "mut": "D",
+      "description": "in dbSNP:rs1800053",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 648,
+      "wt": "S",
+      "mut": "N",
+      "description": "in prostate cancer; dbSNP:rs137852584",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 665,
+      "wt": "I",
+      "mut": "N",
+      "description": "in AIS and PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 671,
+      "wt": "Q",
+      "mut": "R",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 672,
+      "wt": "P",
+      "mut": "H",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 673,
+      "wt": "I",
+      "mut": "T",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 678,
+      "wt": "L",
+      "mut": "P",
+      "description": "in AIS; dbSNP:rs137852579",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 682,
+      "wt": "E",
+      "mut": "K",
+      "description": "in AIS; dbSNP:rs1555995816",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 683,
+      "wt": "P",
+      "mut": "T",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 684,
+      "wt": "G",
+      "mut": "A",
+      "description": "found in prostate cancer",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 685,
+      "wt": "V",
+      "mut": "I",
+      "description": "in AIS; dbSNP:rs1555995822",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 687,
+      "wt": "C",
+      "mut": "R",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 688,
+      "wt": "A",
+      "mut": "V",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 689,
+      "wt": "G",
+      "mut": "E",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 696,
+      "wt": "D",
+      "mut": "H",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 696,
+      "wt": "D",
+      "mut": "N",
+      "description": "in AIS; almost complete loss of androgen binding and transcription activation; dbSNP:rs1555995840",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 696,
+      "wt": "D",
+      "mut": "V",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 701,
+      "wt": "L",
+      "mut": "M",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 702,
+      "wt": "L",
+      "mut": "F",
+      "description": "in AIS; dbSNP:rs1555995851",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 702,
+      "wt": "L",
+      "mut": "H",
+      "description": "found in prostate cancer; dbSNP:rs864622007",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 703,
+      "wt": "S",
+      "mut": "A",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 704,
+      "wt": "S",
+      "mut": "C",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 704,
+      "wt": "S",
+      "mut": "G",
+      "description": "in PAIS and AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 706,
+      "wt": "N",
+      "mut": "S",
+      "description": "in AIS; dbSNP:rs925822435",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 706,
+      "wt": "N",
+      "mut": "Y",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 708,
+      "wt": "L",
+      "mut": "R",
+      "description": "in AIS; dbSNP:rs137852585",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 709,
+      "wt": "G",
+      "mut": "A",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 709,
+      "wt": "G",
+      "mut": "V",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 711,
+      "wt": "R",
+      "mut": "T",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 712,
+      "wt": "Q",
+      "mut": "E",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 713,
+      "wt": "L",
+      "mut": "F",
+      "description": "in PAIS; dbSNP:rs137852595",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 716,
+      "wt": "V",
+      "mut": "M",
+      "description": "in prostate cancer; gain in function; dbSNP:rs1340026226",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 718,
+      "wt": "K",
+      "mut": "E",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 721,
+      "wt": "K",
+      "mut": "E",
+      "description": "in prostate cancer; found in bone metastases",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 722,
+      "wt": "A",
+      "mut": "T",
+      "description": "in prostate cancer; somatic mutation; dbSNP:rs137852583",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 723,
+      "wt": "L",
+      "mut": "F",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 724,
+      "wt": "P",
+      "mut": "S",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 725,
+      "wt": "G",
+      "mut": "D",
+      "description": "in AIS and prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 726,
+      "wt": "F",
+      "mut": "L",
+      "description": "in a patient with severe hypospadias; dbSNP:rs1555996810",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 727,
+      "wt": "R",
+      "mut": "L",
+      "description": "in HPCX3; dbSNP:rs137852593",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 728,
+      "wt": "N",
+      "mut": "K",
+      "description": "in AIS; dbSNP:rs768869912",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 729,
+      "wt": "L",
+      "mut": "S",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 731,
+      "wt": "V",
+      "mut": "M",
+      "description": "in prostate cancer; increases transcription activation; dbSNP:rs137852571",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 733,
+      "wt": "D",
+      "mut": "N",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 733,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 734,
+      "wt": "Q",
+      "mut": "H",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 738,
+      "wt": "I",
+      "mut": "T",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 742,
+      "wt": "W",
+      "mut": "R",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 743,
+      "wt": "M",
+      "mut": "I",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 743,
+      "wt": "M",
+      "mut": "V",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 744,
+      "wt": "G",
+      "mut": "E",
+      "description": "in AIS; dbSNP:rs137852600",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 744,
+      "wt": "G",
+      "mut": "V",
+      "description": "in PAIS and AIS; dbSNP:rs137852600",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 745,
+      "wt": "L",
+      "mut": "F",
+      "description": "in AIS and prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 746,
+      "wt": "M",
+      "mut": "T",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 747,
+      "wt": "V",
+      "mut": "M",
+      "description": "in PAIS and AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 749,
+      "wt": "A",
+      "mut": "D",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 749,
+      "wt": "A",
+      "mut": "T",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 749,
+      "wt": "A",
+      "mut": "V",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 750,
+      "wt": "M",
+      "mut": "I",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 750,
+      "wt": "M",
+      "mut": "V",
+      "description": "in PAIS and AIS; dbSNP:rs1085307685",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 751,
+      "wt": "G",
+      "mut": "D",
+      "description": "in AIS; loss of androgen binding",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 751,
+      "wt": "G",
+      "mut": "S",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 752,
+      "wt": "W",
+      "mut": "R",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 753,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in AIS; dbSNP:rs1057523747",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 755,
+      "wt": "F",
+      "mut": "L",
+      "description": "in PAIS and prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 755,
+      "wt": "F",
+      "mut": "V",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 756,
+      "wt": "T",
+      "mut": "A",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 757,
+      "wt": "N",
+      "mut": "S",
+      "description": "in PAIS; dbSNP:rs141425171",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 758,
+      "wt": "V",
+      "mut": "A",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 759,
+      "wt": "N",
+      "mut": "T",
+      "description": "in PAIS; 50% reduction in transactivation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 760,
+      "wt": "S",
+      "mut": "F",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 760,
+      "wt": "S",
+      "mut": "P",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 763,
+      "wt": "L",
+      "mut": "F",
+      "description": "in AIS; loss of androgen binding",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 764,
+      "wt": "Y",
+      "mut": "C",
+      "description": "in PAIS and prostate cancer; partial loss of androgen binding; dbSNP:rs137852567",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 764,
+      "wt": "Y",
+      "mut": "H",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 765,
+      "wt": "F",
+      "mut": "L",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 766,
+      "wt": "A",
+      "mut": "T",
+      "description": "in AIS; loss of androgen binding; dbSNP:rs1555996863",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 766,
+      "wt": "A",
+      "mut": "V",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 767,
+      "wt": "P",
+      "mut": "S",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 768,
+      "wt": "D",
+      "mut": "E",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 769,
+      "wt": "L",
+      "mut": "P",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 772,
+      "wt": "N",
+      "mut": "H",
+      "description": "in PAIS; dbSNP:rs886041352",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 773,
+      "wt": "E",
+      "mut": "A",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 773,
+      "wt": "E",
+      "mut": "G",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 775,
+      "wt": "R",
+      "mut": "C",
+      "description": "in AIS; frequent mutation; loss of androgen binding; dbSNP:rs137852562",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 775,
+      "wt": "R",
+      "mut": "H",
+      "description": "in AIS and PAIS; almost complete loss of androgen binding; dbSNP:rs137852572",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 780,
+      "wt": "R",
+      "mut": "W",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 781,
+      "wt": "M",
+      "mut": "I",
+      "description": "in PAIS and AIS; dbSNP:rs137852589",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 783,
+      "wt": "S",
+      "mut": "N",
+      "description": "in prostate cancer; somatic mutation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 785,
+      "wt": "C",
+      "mut": "Y",
+      "description": "in AIS; loss of androgen binding and of transactivation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 788,
+      "wt": "M",
+      "mut": "V",
+      "description": "in AIS; dbSNP:rs137852570",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 789,
+      "wt": "R",
+      "mut": "S",
+      "description": "in AIS; dbSNP:rs1254203917",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 791,
+      "wt": "L",
+      "mut": "F",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 792,
+      "wt": "S",
+      "mut": "P",
+      "description": "in prostate cancer and AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 794,
+      "wt": "E",
+      "mut": "D",
+      "description": "in dbSNP:rs1414341563",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 795,
+      "wt": "F",
+      "mut": "S",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 799,
+      "wt": "Q",
+      "mut": "E",
+      "description": "in PAIS, AIS and prostate cancer; reduced transcription activation; dbSNP:rs137852591",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 807,
+      "wt": "C",
+      "mut": "Y",
+      "description": "in PAIS; dbSNP:rs1064793480",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 808,
+      "wt": "M",
+      "mut": "R",
+      "description": "in AIS; loss of transactivation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 808,
+      "wt": "M",
+      "mut": "T",
+      "description": "in PAIS; dbSNP:rs137852592",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 808,
+      "wt": "M",
+      "mut": "V",
+      "description": "in AIS; 25% androgen binding",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 813,
+      "wt": "L",
+      "mut": "F",
+      "description": "in AIS; dbSNP:rs1555997625",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 815,
+      "wt": "S",
+      "mut": "N",
+      "description": "in AIS and PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 821,
+      "wt": "G",
+      "mut": "A",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 822,
+      "wt": "L",
+      "mut": "V",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 828,
+      "wt": "F",
+      "mut": "V",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 831,
+      "wt": "L",
+      "mut": "P",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 832,
+      "wt": "R",
+      "mut": "L",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 832,
+      "wt": "R",
+      "mut": "Q",
+      "description": "in AIS; loss of androgen binding; dbSNP:rs1386577803",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 835,
+      "wt": "Y",
+      "mut": "C",
+      "description": "in AIS; loss of androgen binding; dbSNP:rs1057521122",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 841,
+      "wt": "R",
+      "mut": "C",
+      "description": "in AIS; dbSNP:rs137852577",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 841,
+      "wt": "R",
+      "mut": "G",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 841,
+      "wt": "R",
+      "mut": "H",
+      "description": "in AIS; dbSNP:rs9332969",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 841,
+      "wt": "R",
+      "mut": "S",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 842,
+      "wt": "I",
+      "mut": "S",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 843,
+      "wt": "I",
+      "mut": "T",
+      "description": "in AIS; dbSNP:rs9332970",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 847,
+      "wt": "R",
+      "mut": "G",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 855,
+      "wt": "R",
+      "mut": "K",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 856,
+      "wt": "R",
+      "mut": "C",
+      "description": "in AIS; dbSNP:rs886041132",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 856,
+      "wt": "R",
+      "mut": "H",
+      "description": "in AIS; strongly reduced transcription activation; dbSNP:rs9332971",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 857,
+      "wt": "F",
+      "mut": "L",
+      "description": "in AIS; dbSNP:rs137852598",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 864,
+      "wt": "L",
+      "mut": "R",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 865,
+      "wt": "D",
+      "mut": "G",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 865,
+      "wt": "D",
+      "mut": "N",
+      "description": "in AIS; loss of androgen binding; dbSNP:rs1555997810",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 866,
+      "wt": "S",
+      "mut": "P",
+      "description": "in AIS; dbSNP:rs137852597",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 867,
+      "wt": "V",
+      "mut": "E",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 867,
+      "wt": "V",
+      "mut": "L",
+      "description": "in PAIS; dbSNP:rs137852564",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 867,
+      "wt": "V",
+      "mut": "M",
+      "description": "in AIS and prostate cancer; dbSNP:rs137852564",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 870,
+      "wt": "I",
+      "mut": "M",
+      "description": "in PAIS; dbSNP:rs137852574",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 871,
+      "wt": "A",
+      "mut": "G",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 871,
+      "wt": "A",
+      "mut": "V",
+      "description": "in PAIS; dbSNP:rs143040492",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 872,
+      "wt": "R",
+      "mut": "G",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 875,
+      "wt": "H",
+      "mut": "R",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 875,
+      "wt": "H",
+      "mut": "Y",
+      "description": "in prostate cancer; increases affinity for testosterone and androgen sensitivity; increased transcription activation; dbSNP:rs137852581",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 878,
+      "wt": "T",
+      "mut": "A",
+      "description": "found in prostate cancer; found in bone metastases; alters receptor specificity so that transcription is activated by antiandrogens such as cyproterone acetate; dbSNP:rs137852578",
+      "ft_id": "",
+      "significance": "VUS"
+    },
+    {
+      "uniprot_position": 878,
+      "wt": "T",
+      "mut": "S",
+      "description": "in prostate cancer; dbSNP:rs137852580",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 880,
+      "wt": "D",
+      "mut": "Y",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 881,
+      "wt": "L",
+      "mut": "Q",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 882,
+      "wt": "L",
+      "mut": "V",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 887,
+      "wt": "M",
+      "mut": "V",
+      "description": "in AIS; dbSNP:rs755226547",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 890,
+      "wt": "V",
+      "mut": "M",
+      "description": "in AIS and PAIS; dbSNP:rs886041133",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 891,
+      "wt": "D",
+      "mut": "N",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 892,
+      "wt": "F",
+      "mut": "L",
+      "description": "in prostate cancer and AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 893,
+      "wt": "P",
+      "mut": "L",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 896,
+      "wt": "M",
+      "mut": "T",
+      "description": "in AIS; low androgen binding and transactivation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 897,
+      "wt": "A",
+      "mut": "T",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 899,
+      "wt": "I",
+      "mut": "T",
+      "description": "in AIS; dbSNP:rs1555998105",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 903,
+      "wt": "Q",
+      "mut": "R",
+      "description": "in prostate cancer; dbSNP:rs137852582",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 904,
+      "wt": "V",
+      "mut": "M",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 905,
+      "wt": "P",
+      "mut": "H",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 905,
+      "wt": "P",
+      "mut": "S",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 908,
+      "wt": "L",
+      "mut": "F",
+      "description": "in AIS; almost complete loss of transcription activation",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 910,
+      "wt": "G",
+      "mut": "E",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 910,
+      "wt": "G",
+      "mut": "R",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 911,
+      "wt": "K",
+      "mut": "R",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 912,
+      "wt": "V",
+      "mut": "L",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 914,
+      "wt": "P",
+      "mut": "S",
+      "description": "in PAIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 917,
+      "wt": "F",
+      "mut": "L",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 918,
+      "wt": "H",
+      "mut": "R",
+      "description": "in AIS",
+      "ft_id": "",
+      "significance": "pathogenic"
+    },
+    {
+      "uniprot_position": 920,
+      "wt": "Q",
+      "mut": "R",
+      "description": "in prostate cancer",
+      "ft_id": "",
+      "significance": "pathogenic"
+    }
+  ]
+}
