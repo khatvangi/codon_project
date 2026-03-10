@@ -541,9 +541,10 @@ def generate_report(gaps_df, kf_df, temporal_results, tunnel_results,
     lines.append("## key finding")
     lines.append("")
     lines.append("the 37-protein result generalizes to the full 104-protein dataset.")
-    lines.append("the emergence gap is a robust, parameter-free geometric property of")
-    lines.append("protein modular architecture. the layer architecture is a construction")
-    lines.append("plan compatible with the ribosome's vectorial N→C synthesis.")
+    lines.append("the emergence gap magnitudes — not their positivity, which is tautological")
+    lines.append("for any contiguous segmentation — are determined by the energetically")
+    lines.append("optimized segment sizes (see null model analysis). the modular architecture")
+    lines.append("is consistent with vectorial N→C synthesis under a simplified geometric model.")
     lines.append("")
 
     return "\n".join(lines)

@@ -116,9 +116,13 @@ The advantage of real foldons over random partitions comes entirely from the seg
 
 If the modular decomposition is an emergent consequence of which residues are contiguous in the linear chain, then changing contiguity should change the modules. Circular permutation (CP) does exactly this: it reconnects the N- and C-termini and opens a new break elsewhere, preserving 3D structure while altering backbone topology.
 
-We test this on protein S6 (PDB 1RIS, 97 residues), which has a well-characterized CP variant (CP54, Lindberg et al.) that cuts through the strongest autonomous module (WT-F2, 17 L2 contacts, E_direct = −0.186 kJ/mol).
+We test this on two proteins with experimentally characterized CP variants.
 
-### Three-part argument
+### S6 ribosomal protein (PDB 1RIS, 97 residues)
+
+CP54 (Lindberg et al.) cuts through the strongest autonomous module (WT-F2, 17 L2 contacts, E_direct = −0.186 kJ/mol).
+
+#### Three-part argument
 
 **1. Energetic mismatch.** Contacts that were intra-module (L2) in the wild type but become inter-module (L3) after CP54 carry anomalously favorable E_direct = −0.119 kJ/mol — far from the typical L3 average of +0.029. These are good contacts stranded in the wrong layer.
 
@@ -139,15 +143,36 @@ Two control CP variants that cut in less critical regions show proportionally le
 
 CP54 is the only variant with productive reorganization (10 L3→L2 transitions, 3 Type A foldons). CP13 and CP68 show degradation without compensating new modules.
 
+### T4 lysozyme (PDB 2LZM, 164 residues)
+
+T4L has a two-subdomain architecture where helix A (residues 1-12) is sequentially N-terminal but structurally part of the C-terminal domain. Three experimentally characterized CP variants (Zhang et al. 1993; Llinas & Marqusee 1998) test whether insulation predicts the measured stability loss.
+
+| variant | exp. ΔΔG (kcal/mol) | L2 contacts | contacts switched | insulation |
+|---------|---------------------|-------------|-------------------|------------|
+| WT | 0 | 113 | — | 0.991 |
+| CP37 | 0.8 | 53 | 157 (20.9%) | 0.987 |
+| CP13 | 3.0 | 84 | 100 (13.6%) | 0.959 |
+| CP75 | 9.0 | 105 | 81 (10.8%) | 0.927 |
+
+The insulation metric monotonically predicts experimental stability loss (Pearson r = −0.980, p = 0.020). CP37 (loop cut) shows the most contact switching but the mildest insulation drop — contacts rearrange cleanly at a foldon boundary. CP75 (subdomain boundary) switches the fewest contacts but breaks insulation most severely. CP13 correctly recombines helix A with the C-terminal tail in a novel wrapping module, matching the known structural biology (Shank et al. 2010, Nature).
+
 ### CP figures
 
 **Figure 8**: CP54 reorganization. (a) Arc diagrams comparing WT and CP54 contact architectures, with L2→L3 (orange) and L3→L2 (green) switched contacts. (b) Energetic mismatch: L2→L3 contacts carry near-L2 energies. (c) Modular insulation across all four variants.
 
 ![CP54 reorganization](cp_results/cp_main_figure.png)
 
-**Figure S1**: All four variants (WT, CP13, CP54, CP68) shown as arc diagrams with contact layer assignments and switch statistics.
+**Figure S1**: S6 — all four variants (WT, CP13, CP54, CP68) shown as arc diagrams with contact layer assignments and switch statistics.
 
-![all CP variants](cp_results/cp_all_variants_si.png)
+![all S6 CP variants](cp_results/cp_all_variants_si.png)
+
+**Figure 9**: T4 lysozyme CP analysis. (a) WT vs CP13 arc diagrams showing helix A decoupling. (b) Insulation comparison across all four variants with experimental ΔΔG. (c) Insulation vs experimental ΔΔG scatter (r = −0.980, p = 0.020).
+
+![T4L CP main figure](cp_results_t4l/t4l_cp_main_figure.png)
+
+**Figure S2**: T4L — all four variants (WT, CP37, CP13, CP75) with experimental ΔΔG annotations.
+
+![all T4L CP variants](cp_results_t4l/t4l_cp_all_variants_si.png)
 
 ---
 
@@ -207,7 +232,7 @@ This analysis uses a simplified geometric model and does not capture several fac
 - **Multidomain kinetic traps**: for multidomain proteins, partially folded intermediates can misfold or aggregate. The model treats each foldon independently.
 - **Model dependence**: the type A/B classification and foldon boundaries derive from the AWSEM coarse-grained energy model. Different foldon definitions could yield different results.
 - **Parameter-light, not parameter-free**: while the geometric observation (gap positivity and magnitude) does not require kinetic parameters, the biologically interesting interpretation (time margins, folding rate comparisons) relies on literature-derived translation rates and empirical folding rate ranges.
-- **CP analysis scope**: the circular permutation test is limited to a single protein (S6). Generalization to other proteins with characterized CP variants would strengthen the argument.
+- **CP analysis scope**: the circular permutation test covers two proteins (S6 and T4 lysozyme). Broader validation across additional protein families would further strengthen the argument.
 
 ---
 
@@ -224,8 +249,10 @@ codon_project/
 ├── global_codon_usage.tsv             # global codon usage frequencies
 ├── docs/plans/                        # design and implementation plans
 ├── cp_analysis.py                     # circular permutation analysis (S6/1RIS)
-├── cp_figure.py                       # CP figures (main + SI)
-├── cp_results/                        # CP output data and figures
+├── cp_figure.py                       # S6 CP figures (main + SI)
+├── cp_figure_t4l.py                   # T4L CP figures (main + SI)
+├── cp_results/                        # S6 CP output data and figures
+├── cp_results_t4l/                    # T4L CP output data and figures
 │   ├── wt_contacts.csv               # WT contact classification
 │   ├── cp{13,54,68}_contacts.csv     # CP contact classifications
 │   ├── cp{13,54,68}_comparison.csv   # WT-vs-CP layer switching tables
@@ -293,7 +320,7 @@ python -m pytest cotrans-layer/tests/ -v
 
 Requires: numpy, pandas, scipy, matplotlib, seaborn, biopython.
 
-Note: the CP analysis (`cp_analysis.py`) depends on precomputed AWSEM data from the foldon project (`/storage/kiran-stuff/foldon_project/cp_analysis/`). The cotrans-layer analysis is self-contained via vendored upstream data.
+Note: the CP analyses depend on precomputed AWSEM data from the foldon project (`/storage/kiran-stuff/foldon_project/cp_analysis/`). The cotrans-layer analysis is self-contained via vendored upstream data.
 
 ## Why the kinetic model was superseded
 

@@ -7,7 +7,7 @@ in microseconds while translation takes ~60ms per codon. folding is 10^3–10^6
 faster than translation. the kinetic model is trivial: P_folded ≈ 1.
 
 the relevant variable is not folding rate but emergence timing:
-  1. primary: emergence gap analysis (parameter-free geometric timing)
+  1. primary: emergence gap analysis (geometric timing)
   2. supporting: minimum kf analysis (inverted calculation)
   3. type A/B temporal classification
 
@@ -507,15 +507,16 @@ def generate_report(gaps_df, kf_df, temporal_results, tunnel_lengths_results):
     # key finding
     lines.append("## key finding")
     lines.append("")
-    lines.append("the emergence gap is a **parameter-free geometric quantity**: it depends")
-    lines.append("only on segment boundaries (from AWSEM) and tunnel length (physical constant).")
-    lines.append("no kinetic parameters are needed.")
+    lines.append("the emergence gap is a geometric quantity that depends on segment boundaries")
+    lines.append("(from AWSEM energetic optimization) and tunnel length. the gap magnitudes —")
+    lines.append("not their positivity, which is tautological for contiguous segmentations —")
+    lines.append("are the non-trivial result (see null model analysis).")
     lines.append("")
     lines.append("the median emergence gap translates to a minimum kf requirement that is")
     lines.append("orders of magnitude below empirical folding rates for fragments of the")
-    lines.append("relevant size. this means the protein architecture is inherently compatible")
-    lines.append("with vectorial (N→C) synthesis: the sequential emergence order naturally")
-    lines.append("provides sufficient folding time for each foldon.")
+    lines.append("relevant size. this supports the interpretation that protein modular")
+    lines.append("architecture is compatible with vectorial (N→C) synthesis, though it does")
+    lines.append("not prove that cotranslational folding follows this pathway.")
     lines.append("")
     lines.append("### note on the Plaxco relation")
     lines.append("")

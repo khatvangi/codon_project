@@ -67,48 +67,43 @@ partner (folds in microseconds after emergence).
 
 ## key finding
 
-the emergence gap is a **parameter-free geometric quantity**: it depends
-only on segment boundaries (from AWSEM) and tunnel length (physical constant).
-no kinetic parameters are needed.
+the emergence gap is a geometric quantity that depends on segment boundaries
+(from AWSEM energetic optimization) and tunnel length. the gap magnitudes —
+not their positivity, which is tautological for contiguous segmentations —
+are the non-trivial result (see null model analysis).
 
 the median emergence gap translates to a minimum kf requirement that is
 orders of magnitude below empirical folding rates for fragments of the
-relevant size. this means the protein architecture is inherently compatible
-with vectorial (N→C) synthesis: the sequential emergence order naturally
-provides sufficient folding time for each foldon.
+relevant size. this supports the interpretation that protein modular
+architecture is compatible with vectorial (N→C) synthesis, though it does
+not prove that cotranslational folding follows this pathway.
 
 ### note on the Plaxco relation
 
 the Plaxco CO→kf relation was developed for full proteins, not fragments.
 its failure for foldon-sized fragments is expected and actually strengthens
-the finding: even the most conservative kf estimates (from the Plaxco
-relation, which likely underestimates fragment folding rates) still give
-kf values far above what the emergence gap requires. the analysis is
-robust to the exact kf value because the gap between folding speed and
-translation speed spans 3-6 orders of magnitude.
+the finding: even the most conservative kf estimates still give values far
+above what the emergence gap requires. the analysis is robust to the exact
+kf value because the gap between folding speed and translation speed spans
+3-6 orders of magnitude.
 
-## interpretation: the layer architecture as a construction plan
+## interpretation
 
-the finding that L2-before-L3 ordering is geometric (not kinetic) has a
-deeper implication. the protein's modular architecture places
-thermodynamically autonomous units (type A foldons with L2 contacts) in
-sequence-contiguous blocks. this did not have to be true — a protein could
-in principle have its favorable contacts distributed across distant sequence
-regions, which would make L2 contacts no earlier than L3 in emergence timing.
+the protein's modular architecture places thermodynamically autonomous
+units (type A foldons with L2 contacts) in sequence-contiguous blocks.
+this did not have to be true — a protein could in principle have its
+favorable contacts distributed across distant sequence regions.
 
 the fact that L2 contacts are intra-segment and segments are
 sequence-contiguous means the thermodynamic hierarchy (favorable before
-unfavorable) is automatically enforced by vectorial N→C synthesis. each
-module has time to fold independently before the inter-module interfaces
-become geometrically possible.
-
-**the layer architecture is not just a thermodynamic description — it is a
-construction plan compatible with the ribosome's N→C synthesis.**
+unfavorable) presents a temporal ordering consistent with vectorial N→C
+synthesis. each module emerges with time to fold before the inter-module
+interfaces become geometrically possible.
 
 this connects to the Table 3 negative codon results from the main paper:
 codons do not encode layer identity because they don't need to. the
-co-translational ordering is determined by the modular architecture itself,
-not by translation rate modulation via specific codons.
+ordering is determined by the modular architecture itself, not by
+translation rate modulation via specific codons.
 
 ## connection to previous results
 

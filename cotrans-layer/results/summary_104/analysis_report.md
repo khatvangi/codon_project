@@ -66,6 +66,7 @@ in energy_decomposition.csv.
 ## key finding
 
 the 37-protein result generalizes to the full 104-protein dataset.
-the emergence gap is a robust, parameter-free geometric property of
-protein modular architecture. the layer architecture is a construction
-plan compatible with the ribosome's vectorial N→C synthesis.
+the emergence gap magnitudes — not their positivity, which is tautological
+for any contiguous segmentation — are determined by the energetically
+optimized segment sizes (see null model analysis). the modular architecture
+is consistent with vectorial N→C synthesis under a simplified geometric model.
