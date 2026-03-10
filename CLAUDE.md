@@ -177,15 +177,14 @@ Tests whether the DP-optimal modular decomposition is an emergent consequence of
 - 77/496 contacts switched layers (15.5%)
 - L2→L3 contacts carry anomalously favorable E_direct (-0.119 vs typical L3 +0.029)
 
-### CP Variants to Test
+### S6 CP Variants
 | Variant | Cut Site | Status | Notes |
 |---------|----------|--------|-------|
 | CP54 | 54 | DONE | strongest phenotype, cuts WT-F2 |
-| CP13 | 13 | TODO | control, cuts in WT-F1 |
-| CP68 | 68 | TODO | control, cuts near end of WT-F2 |
-| T4L CP | varies | TODO | bonus, different protein |
+| CP13 | 13 | DONE | control, cuts in WT-F1 |
+| CP68 | 68 | DONE | control, cuts near end of WT-F2 |
 
-### Insulation Analysis
+### S6 Insulation Analysis
 - WT insulation: 0.995 (nearly perfect factorizability)
 - CP54 insulation: **0.929** (14× more coupling — factorizability broken)
 - CP13: 0.969, CP68: 0.978 (closer to WT)
@@ -194,9 +193,48 @@ Tests whether the DP-optimal modular decomposition is an emergent consequence of
 - Novel wrapping module CP-F2 also weakly insulated (ρ=0.153)
 - Key insight: gap widens (DP concentrates best contacts) BUT insulation drops (misplaced contacts create cross-layer correlations)
 
-### Figures
+### S6 Figures
 - Main text: `cp_results/cp_main_figure.png/pdf` — 3-column (arcs + mismatch bars + insulation)
 - SI: `cp_results/cp_all_variants_si.png/pdf` — 4-row (WT, CP13, CP54, CP68)
+
+### T4 Lysozyme CP Analysis (2LZM)
+Second protein for CP analysis. 164 residues, two-subdomain architecture.
+AWSEM project: `foldon_project/cp_analysis/2lzm_A/2lzm/`
+AWsemData cache: `foldon_project/cp_analysis/2lzm_A/2lzm_awsem.npz`
+WT result pickle: `foldon_project/cp_analysis/2lzm_A/wt_result.pkl`
+Script: `cp_figure_t4l.py`, output: `cp_results_t4l/`
+
+### T4L WT Results
+- 164 residues, 9 foldons (4 Type A, 5 Type B), 113 L2 / 614 L3 contacts
+- F0 [0-37]: helix A + N-sub N-terminus (38 res, 63 L2, E=+0.039)
+- F2 [48-75]: N-subdomain core (28 res, 11 L2, E=-0.122)
+- F6 [106-131]: C-subdomain core (26 res, 20 L2, E=-0.135, strongest)
+- F8 [142-163]: C-terminal segment (22 res, 19 L2, E=+0.023)
+- Insulation: 0.991
+
+### T4L CP Results
+| Variant | Exp. ΔΔG | Foldons | L2 | Switched | Insulation |
+|---------|----------|---------|-----|----------|------------|
+| WT | 0 | 9 | 113 | — | 0.991 |
+| CP37 | 0.8 kcal/mol | 9 | 53 | 157 (20.9%) | 0.987 |
+| CP13 | 3.0 kcal/mol | 9 | 84 | 100 (13.6%) | 0.959 |
+| CP75 | 9.0 kcal/mol | 9 | 105 | 81 (10.8%) | 0.927 |
+
+Key findings:
+- Insulation perfectly predicts experimental stability loss: r=-0.980, p=0.020
+- CP37 (mildest): most switching but highest insulation — clean reorganization at boundary
+- CP75 (severest): least switching but lowest insulation — breaks module coupling
+- CP13 wrapping module (F8' = WT[0-12 + 159-163]) recombines helix A with C-terminal tail, matching structural biology (helix A structurally belongs to C-domain)
+
+### T4L Figures
+- Main text: `cp_results_t4l/t4l_cp_main_figure.png/pdf` — 3-column (arcs + insulation bars + insulation vs ΔΔG scatter)
+- SI: `cp_results_t4l/t4l_cp_all_variants_si.png/pdf` — 4-row (WT, CP37, CP13, CP75)
+
+### T4L Literature
+- Zhang, Baase & Matthews 1993 (Biochemistry) — CP37, 0.8 kcal/mol loss
+- Llinas & Marqusee 1998 (Protein Science) — CP13 (3 kcal/mol), CP75 (9 kcal/mol)
+- Cellitti et al. 2007 (Protein Science) — CP13* crystal structure (PDB 2O4W)
+- Shank et al. 2010 (Nature) — CP13 abolishes mechanical cooperativity
 
 ### Key Technical Notes
 - `pair_mask` must be recomputed for CP (encodes polymer connectivity, not 3D distance)
